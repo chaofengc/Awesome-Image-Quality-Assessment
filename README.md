@@ -1,6 +1,14 @@
 # Awesome Image Quality Assessment (IQA)
 A collection of IQA papers (mainly deep learning methods), datasets and codes. 
 
+- [Awesome Image Quality Assessment (IQA)](#awesome-image-quality-assessment-iqa)
+  - [Papers](#papers)
+    - [No Reference (NR)](#no-reference-nr)
+    - [Full Reference (FR)](#full-reference-fr)
+  - [Datasets](#datasets)
+    - [IQA datasets](#iqa-datasets)
+    - [Perceptual similarity datasets](#perceptual-similarity-datasets)
+
 ## Papers
 
 ### No Reference (NR)
