@@ -13,7 +13,7 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes.
 
 ### No Reference (NR)
 
-| Paper Link | Model | Type | Published | Code | Keywords | 
+| Paper Link | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
 | [arXiv](https://arxiv.org/abs/2108.05997) | MUSIQ | NR | ICCV 2021 | [Official](https://github.com/google-research/google-research/tree/master/musiq) / [Pytorch](https://github.com/anse3832/MUSIQ) | Multi-scale, transformer
 | [arXiv](https://arxiv.org/abs/2108.07948) | CKDN | NR | ICCV2021 | [Official](https://github.com/researchmm/CKDN) | Degraded reference 
@@ -37,13 +37,13 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes.
 <!-- | []() | | NR | | []() |  -->
 
 Others
-- Perceptual Index (PI): $\frac{NIQE + (10 - NRQM)}{2}$. [2018 PIRM Challenge](https://arxiv.org/abs/1809.07517).
+- Perceptual Index (PI, [2018 PIRM Challenge](https://arxiv.org/abs/1809.07517)): 1/2 * (NIQE + (10 - NRQM)). 
 
 ### Full Reference (FR)
 
-| Title | Model | Type | Published | Code | Keywords | 
+| Title | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
-| [arXiv](https://arxiv.org/abs/2110.08521) | A-DISTS | FR | ACMM | [Official](https://github.com/dingkeyan93/A-DISTS) | 
+| [arXiv](https://arxiv.org/abs/2110.08521) | A-DISTS | FR | ACMM2021 | [Official](https://github.com/dingkeyan93/A-DISTS) | 
 | [arXiv](https://arxiv.org/abs/2004.07728) | DISTS | FR | TPAMI2021 | [Official](https://github.com/dingkeyan93/DISTS) | 
 | [arXiv](https://arxiv.org/abs/1801.03924) | LPIPS | FR | CVPR2018 | [Project](https://richzhang.github.io/PerceptualSimilarity/) | Perceptual similarity, Pairwise Preference 
 | [arXiv](https://arxiv.org/abs/1806.02067) | PieAPP | FR | CVPR2018 | [Project](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/) | Perceptual similarity, Pairwise Preference 
