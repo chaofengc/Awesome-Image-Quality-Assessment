@@ -42,9 +42,6 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes.
 | [pdf](https://live.ece.utexas.edu/publications/2013/mittal2013.pdf) | NIQE | NR | SPL2012 | []() | Traditional 
 <!-- | []() | | NR | | []() |  -->
 
-Others
-- Perceptual Index (PI, [2018 PIRM Challenge](https://arxiv.org/abs/1809.07517)): 1/2 * (NIQE + (10 - NRQM)). 
-
 ### Full Reference (FR)
 
 | Title | Method | Type | Published | Code | Keywords | 
