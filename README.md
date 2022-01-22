@@ -5,6 +5,7 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes.
   - [Papers](#papers)
     - [No Reference (NR)](#no-reference-nr)
     - [Full Reference (FR)](#full-reference-fr)
+    - [Others](#others)
   - [Datasets](#datasets)
     - [IQA datasets](#iqa-datasets)
     - [Perceptual similarity datasets](#perceptual-similarity-datasets)
@@ -15,6 +16,7 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes.
 
 | Paper Link | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
+| [pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0868.pdf) | KonIQ++ | NR | BMVC2021 | [Official](https://github.com/SSL92/koniqplusplus) | Multi-task with distortion prediction 
 | [arXiv](https://arxiv.org/abs/2108.05997) | MUSIQ | NR | ICCV2021 | [Official](https://github.com/google-research/google-research/tree/master/musiq) / [Pytorch](https://github.com/anse3832/MUSIQ) | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
 | [arXiv](https://arxiv.org/abs/2108.07948) | CKDN | NR | ICCV2021 | [Official](https://github.com/researchmm/CKDN) | Degraded reference, Conditional knowledge distillation (related to HIQA)
 | [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf) | HyperIQA | NR | CVPR2020 | [Official](https://github.com/SSL92/hyperIQA) | Content-aware hyper network 
@@ -48,7 +50,6 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes.
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
 | [arXiv](https://arxiv.org/abs/2110.08521) | A-DISTS | FR | ACMM2021 | [Official](https://github.com/dingkeyan93/A-DISTS) | 
 | [arXiv](https://arxiv.org/abs/2004.07728) | DISTS | FR | TPAMI2021 | [Official](https://github.com/dingkeyan93/DISTS) | 
-| [arXiv](https://arxiv.org/abs/2008.03889) | NiNLoss | Loss | ACMM2020 | [Official](https://github.com/lidq92/LinearityIQA) | Norm-in-Norm Loss
 | [arXiv](https://arxiv.org/abs/1801.03924) | LPIPS | FR | CVPR2018 | [Project](https://richzhang.github.io/PerceptualSimilarity/) | Perceptual similarity, Pairwise Preference 
 | [arXiv](https://arxiv.org/abs/1806.02067) | PieAPP | FR | CVPR2018 | [Project](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/) | Perceptual similarity, Pairwise Preference 
 | [arXiv](https://arxiv.org/abs/1612.01697) | WaDIQaM | NR/FR | TIP2018 | [Official](https://github.com/lidq92/WaDIQaM) | 
@@ -61,6 +62,12 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes.
 | [pdf](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) | SSIM | FR | TIP2004 | [Project](https://ece.uwaterloo.ca/~z70wang/research/ssim/) | Traditional 
 | []() | PSNR | FR | | []() | Traditional 
 <!-- | []() | | FR | | []() |  -->
+
+### Others 
+
+| Title | Method | Published | Code | Keywords | 
+| ----------- | ------------| ---------- | ------ | ------ |
+| [arXiv](https://arxiv.org/abs/2008.03889) | NiNLoss | ACMM2020 | [Official](https://github.com/lidq92/LinearityIQA) | Norm-in-Norm Loss
 
 ## Datasets 
 
