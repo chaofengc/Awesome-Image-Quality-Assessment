@@ -1,5 +1,5 @@
 # Awesome Image Quality Assessment (IQA)
-A collection of IQA papers (mainly deep learning methods), datasets and codes. 
+A collection of IQA papers (mainly deep learning methods), datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) 
 
 - [Awesome Image Quality Assessment (IQA)](#awesome-image-quality-assessment-iqa)
   - [Papers](#papers)
