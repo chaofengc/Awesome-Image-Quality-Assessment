@@ -48,6 +48,7 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes. W
 
 | Title | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
+| [arXiv](https://arxiv.org/abs/2202.13123) | CVRKD | NAR | AAAI2022 | [Official](https://github.com/guanghaoyin/CVRKD-IQA) | Non-Aligned content reference, knowledge distillation 
 | [arXiv](https://arxiv.org/abs/2110.08521) | A-DISTS | FR | ACMM2021 | [Official](https://github.com/dingkeyan93/A-DISTS) | 
 | [arXiv](https://arxiv.org/abs/2004.07728) | DISTS | FR | TPAMI2021 | [Official](https://github.com/dingkeyan93/DISTS) | 
 | [arXiv](https://arxiv.org/abs/1801.03924) | LPIPS | FR | CVPR2018 | [Project](https://richzhang.github.io/PerceptualSimilarity/) | Perceptual similarity, Pairwise Preference 
