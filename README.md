@@ -40,10 +40,14 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes. W
 | [arXiv](https://arxiv.org/abs/1904.06505) | dipIQ | NR | TIP2017 | [download](https://ece.uwaterloo.ca/~k29ma/codes/dipIQ.rar) | Similar to RankIQA
 | []() | | | | []() | 
 | [arXiv](https://arxiv.org/abs/1612.05890) | NRQM (Ma) | NR | CVIU2017 | [Project](https://sites.google.com/site/chaoma99/sr-metric) | Traditional, Super resolution 
-| [IEEE](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=7501619) | HOSA | NR | TIP2016 | []() | Traditional 
-| [pdf](https://live.ece.utexas.edu/publications/2015/zhang2015feature.pdf) | ILNIQE | NR | TIP2015 | []() | Traditional 
-| [pdf](https://live.ece.utexas.edu/publications/2012/TIP%20BRISQUE.pdf) | BRISQUE | NR | TIP2012 | []() | Traditional 
-| [pdf](https://live.ece.utexas.edu/publications/2013/mittal2013.pdf) | NIQE | NR | SPL2012 | []() | Traditional 
+| [arXiv](https://arxiv.org/abs/1609.04757) | FRIQUEE | NR | JoV2017 | [Official](https://github.com/utlive/FRIQUEE) | Authentically Distorted, Bag of Features
+| [IEEE](https://ieeexplore.ieee.org/document/7501619) | HOSA | NR | TIP2016 | [Matlab download](https://ieeexplore.ieee.org/document/7501619) | Traditional 
+| [pdf](https://live.ece.utexas.edu/publications/2015/zhang2015feature.pdf) | ILNIQE | NR | TIP2015 | [Official](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/ILNIQE/ILNIQE.htm) | Traditional 
+| [pdf](https://live.ece.utexas.edu/publications/2012/TIP%20BRISQUE.pdf) | BRISQUE | NR | TIP2012 | [Official](https://github.com/utlive/BRISQUE) | Traditional 
+| [pdf](https://live.ece.utexas.edu/publications/2012/saad_2012_tip.pdf) | BLIINDS-II | NR | TIP2012 | [Official](https://github.com/utlive/BLIINDS2) | 
+| [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.359.7510&rep=rep1&type=pdf) | CORNIA | NR | CVPR2012 | [Matlab download](https://github.com/HuiZeng/BIQA_Toolbox) | Codebook Representation 
+| [pdf](https://live.ece.utexas.edu/publications/2013/mittal2013.pdf) | NIQE | NR | SPL2012 | [Official](https://github.com/utlive/niqe) | Traditional 
+| [pdf](https://www.imaging.utk.edu/research/wcho/references/2011%20TIP%20BLINDS2.pdf) | DIIVINE | NR | TIP2011 | [Official](https://github.com/utlive/DIIVINE) | 
 <!-- | []() | | NR | | []() |  -->
 
 ### Full Reference (FR)
