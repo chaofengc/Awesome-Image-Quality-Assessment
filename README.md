@@ -54,6 +54,7 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes. W
 
 | Title | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
+| [arXiv](https://arxiv.org/abs/2204.10485) | AHIQ | FR | CVPR2022 NTIRE workshop | [Official](https://github.com/IIGROUP/AHIQ) | Attention, Transformer
 | [arXiv](https://arxiv.org/abs/2204.08763) | JSPL | FR | CVPR2022 | [Official](https://github.com/happycaoyue/JSPL) | semi-supervised and positive-unlabeled (PU) learning |
 | [arXiv](https://arxiv.org/abs/2202.13123) | CVRKD | NAR | AAAI2022 | [Official](https://github.com/guanghaoyin/CVRKD-IQA) | Non-Aligned content reference, knowledge distillation 
 | [arXiv](https://arxiv.org/abs/2104.14730) | IQT | FR | CVPRW2021 | [PyTorch](https://github.com/anse3832/IQT) | Transformer 
