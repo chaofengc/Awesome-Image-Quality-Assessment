@@ -1,6 +1,10 @@
 # Awesome Image Quality Assessment (IQA)
 A collection of IQA papers (mainly deep learning methods), datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) 
 
+[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment) 
+<!-- ![GitHub stars](https://img.shields.io/github/stars/chaofengc/Awesome-Image-Quality-Assessment?color=green)   -->
+<!-- ![GitHub forks](https://img.shields.io/github/forks/chaofengc/Awesome-Image-Quality-Assessment?color=9cf) -->
+
 - [Awesome Image Quality Assessment (IQA)](#awesome-image-quality-assessment-iqa)
   - [Papers](#papers)
     - [No Reference (NR)](#no-reference-nr)
@@ -52,7 +56,9 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes. W
 
 ### Full Reference (FR)
 
-| Title | Method | Type | Published | Code | Keywords | 
+- [Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity](https://ece.uwaterloo.ca/~w234zhou/papers/22_ACM-MM_DFSF.pdf). Wei Zhou, Zhou Wang. `In MM2022`.
+
+| Paper Link | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
 | [arXiv](https://arxiv.org/abs/2204.10485) | AHIQ | FR | CVPR2022 NTIRE workshop | [Official](https://github.com/IIGROUP/AHIQ) | Attention, Transformer
 | [arXiv](https://arxiv.org/abs/2204.08763) | JSPL | FR | CVPR2022 | [Official](https://github.com/happycaoyue/JSPL) | semi-supervised and positive-unlabeled (PU) learning |
