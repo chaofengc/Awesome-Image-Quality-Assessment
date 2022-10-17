@@ -1,9 +1,7 @@
 # Awesome Image Quality Assessment (IQA)
 A collection of IQA papers (mainly deep learning methods), datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) 
 
-[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment) 
-<!-- ![GitHub stars](https://img.shields.io/github/stars/chaofengc/Awesome-Image-Quality-Assessment?color=green)   -->
-<!-- ![GitHub forks](https://img.shields.io/github/forks/chaofengc/Awesome-Image-Quality-Assessment?color=9cf) -->
+[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment) 
 
 - [Awesome Image Quality Assessment (IQA)](#awesome-image-quality-assessment-iqa)
   - [Papers](#papers)
@@ -17,6 +15,8 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes. W
 ## Papers
 
 ### No Reference (NR)
+
+- `[TMM2022]` [GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment](https://arxiv.org/abs/2103.07666), Sun et al. [Github](https://github.com/geekyutao/GraphIQA) | [Bibtex](./iqa_ref.bib#L701-707)
 
 | Paper Link | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
@@ -56,7 +56,7 @@ A collection of IQA papers (mainly deep learning methods), datasets and codes. W
 
 ### Full Reference (FR)
 
-- [Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity](https://ece.uwaterloo.ca/~w234zhou/papers/22_ACM-MM_DFSF.pdf). Wei Zhou, Zhou Wang. `In MM2022`.
+- `[ACM MM2022]` [Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity](https://arxiv.org/abs/2207.08689), Zhou et al. [Github](https://github.com/weizhou-geek/SRIF) | [Bibtex](./iqa_ref.bib#L709-714)
 
 | Paper Link | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
