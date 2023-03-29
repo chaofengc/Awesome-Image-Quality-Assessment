@@ -7,6 +7,7 @@ A comprehensive collection of IQA papers, datasets and codes. We also provide Py
   - [Papers](#papers)
     - [No Reference (NR)](#no-reference-nr)
     - [Full Reference (FR)](#full-reference-fr)
+    - [Image Aesthetic Assessment](#image-aesthetic-assessment)
     - [Others](#others)
   - [Datasets](#datasets)
     - [IQA datasets](#iqa-datasets)
@@ -18,6 +19,8 @@ Related Resources:
 ## Papers
 
 ### No Reference (NR)
+- `[CVPR2023]` [Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective](https://arxiv.org/abs/2303.14968), Zhang et al. [Github](https://github.com/zwx8981/LIQE) | [Bibtex](./iqa_ref.bib#L770-L775)
+- `[CVPR2023]` [Quality-aware Pre-trained Models for Blind Image Quality Assessment](https://arxiv.org/abs/2303.00521), Zhao et al. [Bibtex](./iqa_ref.bib#L763-L768)
 
 - `[AAAI2023]` [Exploring CLIP for Assessing the Look and Feel of Images](https://arxiv.org/abs/2207.12396), Wang et al. [Github](https://github.com/IceClear/CLIP-IQA) | [Bibtex](./iqa_ref.bib#L745-L750)
 - `[TPAMI2022]` [Continual Learning for Blind Image Quality Assessment
@@ -89,6 +92,11 @@ Related Resources:
 | [pdf](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) | SSIM | FR | TIP2004 | [Project](https://ece.uwaterloo.ca/~z70wang/research/ssim/) | Traditional 
 | []() | PSNR | FR | | []() | Traditional 
 <!-- | []() | | FR | | []() |  -->
+
+### Image Aesthetic Assessment 
+
+- `[CVPR2023]` [VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining](https://arxiv.org/abs/2303.14302), Ke et al. [Bibtex](./iqa_ref.bib#L784-L789)
+- `[CVPR2023]` [Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method](https://arxiv.org/abs/2303.14968), Yi et al. [Github](https://github.com/Dreemurr-T/BAID) | [Bibtex](./iqa_ref.bib#L777-L782)
 
 ### Others 
 
