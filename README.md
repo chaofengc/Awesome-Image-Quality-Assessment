@@ -21,6 +21,7 @@ Related Resources:
 ## Papers
 
 ### Explainable IQA
+- `[Arxiv 2023]` [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://arxiv.org/abs/2312.08962), You et al. [Project](https://depictqa.github.io/) | [Bibtex](./iqa_ref.bib#L885-L890)
 - `[Arxiv 2023]` [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://arxiv.org/abs/2311.06783), Wu et al. [Github](https://github.com/Q-Future/Q-Instruct) | [Bibtex](./iqa_ref.bib#L876-L883)
 
 ### AIGC IQA
