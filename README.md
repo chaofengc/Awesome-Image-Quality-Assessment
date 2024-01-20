@@ -29,6 +29,7 @@ Related Resources:
 - `[TCSVT2023]` [A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment](https://arxiv.org/abs/2306.04717), Li et al. [Github](https://github.com/lcysyzxdxc/AGIQA-3k-Database) | [Bibtex](./iqa_ref.bib#L824-L831)
 
 ### No Reference (NR)
+- `[WACV2024]` [ARNIQA: Learning Distortion Manifold for Image Quality Assessment](https://arxiv.org/abs/2310.14918), Agnolucci et al. [Github](https://github.com/miccunifi/ARNIQA) | [Bibtex](./iqa_ref.bib#L858-L865)
 - `[ICCV2023]` [Test Time Adaptation for Blind Image Quality Assessment](https://arxiv.org/abs/2307.14735), Roy et al. [Github](https://github.com/Shankhanil006/TTA-IQA) | [Bibtex](./iqa_ref.bib#L798-L804)
 - `[CVPR2023]` [Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild](https://arxiv.org/abs/2304.00451), Saha et al. [Bibtex](./iqa_ref.bib#L791-L796) | [Github](https://github.com/avinabsaha/ReIQA)
 - `[CVPR2023]` [Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective](https://arxiv.org/abs/2303.14968), Zhang et al. [Github](https://github.com/zwx8981/LIQE) | [Bibtex](./iqa_ref.bib#L770-L775)
