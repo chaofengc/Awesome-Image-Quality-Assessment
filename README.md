@@ -43,6 +43,8 @@ Related Resources:
 - `[TCSVT2023]` [A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment](https://arxiv.org/abs/2306.04717), Li et al. [Github](https://github.com/lcysyzxdxc/AGIQA-3k-Database) | [Bibtex](./iqa_ref.bib#L824-L831)
 
 ### No Reference (NR)
+- `[CVPR 2024]` [Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement
+](https://arxiv.org/abs/2308.12001), Xu et al. | [Bibtex](./iqa_ref.bib#L915-L920)
 - `[WACV2024]` [ARNIQA: Learning Distortion Manifold for Image Quality Assessment](https://arxiv.org/abs/2310.14918), Agnolucci et al. [Github](https://github.com/miccunifi/ARNIQA) | [Bibtex](./iqa_ref.bib#L858-L865)
 - `[TIP2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) | [Bibtex](./iqa_ref.bib#L892-L897)
 - `[ICCV2023]` [Test Time Adaptation for Blind Image Quality Assessment](https://arxiv.org/abs/2307.14735), Roy et al. [Github](https://github.com/Shankhanil006/TTA-IQA) | [Bibtex](./iqa_ref.bib#L798-L804)
