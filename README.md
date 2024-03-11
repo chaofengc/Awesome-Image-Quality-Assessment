@@ -20,10 +20,18 @@ Related Resources:
 
 ## Papers
 
-### Explainable IQA
+### Unified IQA
+> All IQA types unified in a single framework
+
+- `[Arxiv 2024]` [Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels](https://arxiv.org/abs/2312.17090), Wu et al. [Github](https://github.com/Q-Future/Q-Align) | [Bibtex](./iqa_ref.bib#L915-L922)
+
+### Explainable IQA 
+> Human readable IQA, mostly with large language models
+
+- `[Arxiv 2024]` [Towards Open-ended Visual Quality Comparison](https://arxiv.org/abs/2402.16641), Wu et al. [Github](https://github.com/Q-Future/Co-Instruct) | [Bibtex](./iqa_ref.bib#L906-L913)
 - `[Arxiv 2024]` [AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception](https://arxiv.org/abs/2401.08276), Huang et al. [Github](https://github.com/yipoh/AesBench) | [Bibtex](./iqa_ref.bib#L899-L904)
 - `[Arxiv 2023]` [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://arxiv.org/abs/2312.08962), You et al. [Project](https://depictqa.github.io/) | [Bibtex](./iqa_ref.bib#L885-L890)
-- `[Arxiv 2023]` [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://arxiv.org/abs/2311.06783), Wu et al. [Github](https://github.com/Q-Future/Q-Instruct) | [Bibtex](./iqa_ref.bib#L876-L883)
+- `[CVPR 2024]` [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://arxiv.org/abs/2311.06783), Wu et al. [Github](https://github.com/Q-Future/Q-Instruct) | [Bibtex](./iqa_ref.bib#L876-L883)
 
 ### AIGC IQA
 
