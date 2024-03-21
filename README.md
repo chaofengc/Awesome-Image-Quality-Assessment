@@ -46,6 +46,7 @@ Related Resources:
 - `[TCSVT2023]` [A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment](https://arxiv.org/abs/2306.04717), Li et al. [Github](https://github.com/lcysyzxdxc/AGIQA-3k-Database) | [Bibtex](./iqa_ref.bib#L824-L831)
 
 ### No Reference (NR)
+- `[Arxiv 2024]` [Quality-aware Image-Text Alignment for Real-World Image Quality Assessment](https://arxiv.org/abs/2403.11176), Lorenzo et al. [Github](https://github.com/miccunifi/QualiCLIP) | [Bibtex](./iqa_ref.bib#L949-L954)
 - `[CVPR 2024]` [Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement
 ](https://arxiv.org/abs/2308.12001), Xu et al. | [Bibtex](./iqa_ref.bib#L915-L920)
 - `[WACV2024]` [ARNIQA: Learning Distortion Manifold for Image Quality Assessment](https://arxiv.org/abs/2310.14918), Agnolucci et al. [Github](https://github.com/miccunifi/ARNIQA) | [Bibtex](./iqa_ref.bib#L858-L865)
