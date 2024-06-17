@@ -46,6 +46,7 @@ Related Resources:
 - `[TCSVT2023]` [A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment](https://arxiv.org/abs/2306.04717), Li et al. [Github](https://github.com/lcysyzxdxc/AGIQA-3k-Database) | [Bibtex](./iqa_ref.bib#L824-L831)
 
 ### No Reference (NR)
+- `[Arxiv 2024]` [Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment](https://arxiv.org/abs/2406.09546), Guan et al. [Bibtex](./iqa_ref.bib#L980-L986)
 - `[Arxiv 2024]` [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://arxiv.org/abs/2405.19298), Zhe et al. [Bibtex](./iqa_ref.bib#L964-L971)
 - `[Arxiv 2024]` [Quality-aware Image-Text Alignment for Real-World Image Quality Assessment](https://arxiv.org/abs/2403.11176), Agnolucci et al. [Github](https://github.com/miccunifi/QualiCLIP) | [Bibtex](./iqa_ref.bib#L949-L954)
 - `[CVPR 2024]` [Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment](https://arxiv.org/abs/2405.04167), Li et al. [Bibtex](./iqa_ref.bib#L956-L961)
@@ -137,6 +138,12 @@ Related Resources:
 - `[CVPR2023]` [Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method](https://arxiv.org/abs/2303.14968), Yi et al. [Github](https://github.com/Dreemurr-T/BAID) | [Bibtex](./iqa_ref.bib#L777-L782)
 
 ### Others 
+
+#### Task Specific IQA
+
+- `[CVPR2024]` **\<Face IQA\>** [DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer](https://arxiv.org/abs/2406.09622), Chen et al. [Bibtex](./iqa_ref.bib#L973-L978) | [Project](https://dsl-fiqa.github.io/)
+
+#### IQA Losses
 
 | Title | Method | Published | Code | Keywords | 
 | ----------- | ------------| ---------- | ------ | ------ |
