@@ -29,11 +29,12 @@ Related Resources:
 ### Explainable IQA 
 > Human readable IQA, mostly with large language models
 
+- `[ACM MM2024]` [Q-Ground: Image Quality Grounding with Large Multi-modality Models](https://arxiv.org/abs/2407.17035), Chen et al. [Bibtex](./iqa_ref.bib#L1002-L1007) | [Github](https://github.com/Q-Future/Q-Ground)
 - `[Arxiv 2024]` [VisualCritic: Making LMMs Perceive Visual Quality Like Humans](https://arxiv.org/abs/2403.12806), Huang et al. [Bibtex](./iqa_ref.bib#L940-L947)
-- `[Arxiv 2024]` [A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment](https://arxiv.org/abs/2403.10854), Wu et al. [Github]() | [Bibtex](./iqa_ref.bib#L922-L929)
-- `[Arxiv 2024]` [Towards Open-ended Visual Quality Comparison](https://arxiv.org/abs/2402.16641), Wu et al. [Github](https://github.com/Q-Future/Co-Instruct) | [Bibtex](./iqa_ref.bib#L906-L913)
+- `[ECCV 2024]` [A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment](https://arxiv.org/abs/2403.10854), Wu et al. [Github]() | [Bibtex](./iqa_ref.bib#L922-L929)
+- `[ECCV 2024]` [Towards Open-ended Visual Quality Comparison](https://arxiv.org/abs/2402.16641), Wu et al. [Github](https://github.com/Q-Future/Co-Instruct) | [Bibtex](./iqa_ref.bib#L906-L913)
 - `[Arxiv 2024]` [AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception](https://arxiv.org/abs/2401.08276), Huang et al. [Github](https://github.com/yipoh/AesBench) | [Bibtex](./iqa_ref.bib#L899-L904)
-- `[Arxiv 2023]` [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://arxiv.org/abs/2312.08962), You et al. [Project](https://depictqa.github.io/) | [Bibtex](./iqa_ref.bib#L885-L890)
+- `[ECCV 2024]` [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://arxiv.org/abs/2312.08962), You et al. [Project](https://depictqa.github.io/) | [Bibtex](./iqa_ref.bib#L885-L890)
 - `[CVPR 2024]` [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://arxiv.org/abs/2311.06783), Wu et al. [Github](https://github.com/Q-Future/Q-Instruct) | [Bibtex](./iqa_ref.bib#L876-L883)
 
 ### AIGC IQA
@@ -140,9 +141,13 @@ Related Resources:
 
 ### Others 
 
-#### Task Specific IQA
+#### Face IQA
 
-- `[CVPR2024]` **\<Face IQA\>** [DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer](https://arxiv.org/abs/2406.09622), Chen et al. [Bibtex](./iqa_ref.bib#L973-L978) | [Project](https://dsl-fiqa.github.io/)
+- `[CVPR2024]` [DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer](https://arxiv.org/abs/2406.09622), Chen et al. [Bibtex](./iqa_ref.bib#L973-L978) | [Project](https://dsl-fiqa.github.io/)
+
+#### 360° Image (Omnidirectional Image) IQA
+- `[NeurIPS 2023]` [Assessor360: Multi-sequence Network for Blind Omnidirectional Image Quality Assessment
+](https://arxiv.org/abs/2305.10983), Wu et al. [Bibtex](./iqa_ref.bib#L995-L1000) | [Github](https://github.com/TianheWu/Assessor360) 
 
 #### IQA Losses
 
