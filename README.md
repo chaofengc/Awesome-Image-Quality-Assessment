@@ -149,6 +149,11 @@ Related Resources:
 - `[NeurIPS 2023]` [Assessor360: Multi-sequence Network for Blind Omnidirectional Image Quality Assessment
 ](https://arxiv.org/abs/2305.10983), Wu et al. [Bibtex](./iqa_ref.bib#L995-L1000) | [Github](https://github.com/TianheWu/Assessor360) 
 
+#### Egocentric Spatial Images (Apple Vision Pro)
+
+- `[Arxiv 2024]` [ESIQA: Perceptual Quality Assessment of Vision-Pro-based
+Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex](./iqa_ref.bib#L1009-L1016) | [Github](https://github.com/IntMeGroup/ESIQA)
+
 #### IQA Losses
 
 | Title | Method | Published | Code | Keywords | 
