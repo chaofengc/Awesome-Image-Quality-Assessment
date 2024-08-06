@@ -154,6 +154,11 @@ Related Resources:
 - `[Arxiv 2024]` [ESIQA: Perceptual Quality Assessment of Vision-Pro-based
 Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex](./iqa_ref.bib#L1009-L1016) | [Github](https://github.com/IntMeGroup/ESIQA)
 
+#### Adversarial Attack on IQA
+
+- `[Arxiv 2024]` [Guardians of Image Quality: Benchmarking Defenses Against Adversarial Attacks on Image Quality Metrics](https://arxiv.org/abs/2408.01541), Gushchin et al. [Bibtex](./iqa_ref.bib#L1027-L1035) | [Github](https://github.com/msu-video-group/adversarial-defenses-for-iqa) | [Project](https://videoprocessing.ai/benchmarks/iqa-defenses.html)
+- `[NeurIPS 2022]` [Perceptual Attacks of No-Reference Image Quality Models with Human-in-the-Loop](https://arxiv.org/abs/2210.00933), Zhang et al. [Bibtex](./iqa_ref.bib#L1018-L1025) | [Github](https://github.com/zwx8981/PerceptualAttack_BIQA)
+
 #### IQA Losses
 
 | Title | Method | Published | Code | Keywords | 
