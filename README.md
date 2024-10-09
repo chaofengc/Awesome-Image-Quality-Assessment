@@ -145,7 +145,8 @@ Related Resources:
 
 #### Color IQA
 
-- `[ECCV2024]` [Multiscale Sliced Wasserstein Distances as Perceptual Color Difference Measures](https://arxiv.org/abs/2407.10181), He et al. [Github]() | [Bibtex](./iqa_ref.bib#L1051-L1058)
+- `[ECCV 2024]` [Multiscale Sliced Wasserstein Distances as Perceptual Color Difference Measures](https://arxiv.org/abs/2407.10181), He et al. [Github](https://github.com/real-hjq/MS-SWD) | [Bibtex](./iqa_ref.bib#L1051-L1058)
+- `[CVPR 2023]` [Learning a Deep Color Difference Metric for Photographic Images](https://arxiv.org/abs/2303.14964), Chen et al. [Github](https://github.com/haoychen3/CD-Flow) | [Bibtex](./iqa_ref.bib#L1060-L1065)
 
 #### Face IQA
 
