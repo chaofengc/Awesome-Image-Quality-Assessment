@@ -23,13 +23,13 @@ Related Resources:
 ### Unified IQA
 > All IQA types unified in a single model
 
-- `[Arxiv 2024]` [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts](https://arxiv.org/abs/2403.04993), Chen et al. [Bibtex](./iqa_ref.bib#L931-L938)
+- `[ECCV 2024]` [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts](https://arxiv.org/abs/2403.04993), Chen et al. [Bibtex](./iqa_ref.bib#L931-L938)
 - `[ICML 2024]` [Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels](https://arxiv.org/abs/2312.17090), Wu et al. [Github](https://github.com/TianheWu/MLLMs-for-IQA) | [Bibtex](./iqa_ref.bib#L867-L874)
 
 ### Explainable IQA 
 > Human readable IQA, mostly with large language models
 
-- `[TPAMI 2024]` [Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from Single Images to Pairs](https://arxiv.org/abs/2402.07116), Zhang et al. [Github](https://github.com/Q-Future/Q-Bench) | [Bibtex]()
+- `[TPAMI 2024]` [Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from Single Images to Pairs](https://arxiv.org/abs/2402.07116), Zhang et al. [Github](https://github.com/Q-Future/Q-Bench) | [Bibtex](./iqa_ref.bib#L1044-L1049)
 - `[ACM MM2024]` [Q-Ground: Image Quality Grounding with Large Multi-modality Models](https://arxiv.org/abs/2407.17035), Chen et al. [Bibtex](./iqa_ref.bib#L1002-L1007) | [Github](https://github.com/Q-Future/Q-Ground)
 - `[Arxiv 2024]` [VisualCritic: Making LMMs Perceive Visual Quality Like Humans](https://arxiv.org/abs/2403.12806), Huang et al. [Bibtex](./iqa_ref.bib#L940-L947)
 - `[ECCV 2024]` [A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment](https://arxiv.org/abs/2403.10854), Wu et al. [Github]() | [Bibtex](./iqa_ref.bib#L922-L929)
@@ -142,6 +142,10 @@ Related Resources:
 - `[CVPR2023]` [Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method](https://arxiv.org/abs/2303.14968), Yi et al. [Github](https://github.com/Dreemurr-T/BAID) | [Bibtex](./iqa_ref.bib#L777-L782)
 
 ### Others 
+
+#### Color IQA
+
+- `[ECCV2024]` [Multiscale Sliced Wasserstein Distances as Perceptual Color Difference Measures](https://arxiv.org/abs/2407.10181), He et al. [Github]() | [Bibtex](./iqa_ref.bib#L1051-L1058)
 
 #### Face IQA
 
