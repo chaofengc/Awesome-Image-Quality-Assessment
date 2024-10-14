@@ -178,6 +178,7 @@ Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex
 
 | Paper Link | Dataset Name | Type | Published | Website | Images | Annotations
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |------ |
+| [arXiv](https://arxiv.org/abs/2406.17472) | UHD-IQA | NR | ECCVW2024 | [Project](https://database.mmsp-kn.de/uhd-iqa-benchmark-database.html) | 6k (~3840x2160) | 20 ratings per image |
 | [arXiv](https://arxiv.org/abs/1912.10088) | PaQ-2-PiQ | NR | CVPR2020 | [Official github](https://github.com/baidut/PaQ-2-PiQ) | 40k, 120k patches | 4M |
 | [CVF](https://openaccess.thecvf.com/content_CVPR_2020/html/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.html)  | SPAQ | NR | CVPR2020 | [Offical github](https://github.com/h4nwei/SPAQ) | 11k (smartphone) | |  
 | [arXiv](https://arxiv.org/abs/1910.06180) | KonIQ-10k | NR | TIP2020 | [Project](http://database.mmsp-kn.de/koniq-10k-database.html) | 10k from [YFCC100M](http://projects.dfki.uni-kl.de/yfcc100m/) | 1.2M | 
