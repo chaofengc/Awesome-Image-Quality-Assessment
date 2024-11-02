@@ -39,6 +39,7 @@ Related Resources:
 
 ### AIGC IQA
 
+- `✨[CVPR 2024 (best paper)]` [Rich Human Feedback for Text-to-Image Generation](https://arxiv.org/abs/2312.10240), Liang et al. [Github](https://github.com/google-research-datasets/richhf-18k) | [Bibtex](./iqa_ref.bib#L1067-L1072)
 - `[ICLR 2024]` [Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision](https://arxiv.org/abs/2309.14181), Wu et al. [Github](https://github.com/Q-Future/Q-Bench) | [Bibtex](./iqa_ref.bib#L833-L838)
 - `[ICCV 2023]` [TIFA: Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897), Hu et al. [Github](https://github.com/Yushi-Hu/tifa) | [Bibtex](./iqa_ref.bib#L840-L846) | [Project](https://tifa-benchmark.github.io/)
 - `[NeurIPS 2023]` [ImageReward: Learning and Evaluating Human Preferences for Text-to-image Generation](https://arxiv.org/abs/2304.05977), Xu et al. [Github](https://github.com/THUDM/ImageReward) | [Bibtex](./iqa_ref.bib#L817-L822)
