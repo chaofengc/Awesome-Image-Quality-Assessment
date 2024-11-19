@@ -3,6 +3,10 @@ A comprehensive collection of IQA papers, datasets and codes. We also provide Py
 
 [![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment) 
 
+> [!TIP]  
+> 📚✍️ Feel free to submit a pull request to add a paper you think deserves to be featured in this repository! Your contributions are incredibly appreciated 🙌 and will help make this project even better for everyone!  
+> Thank you for your support! 🫶🤗🎉  
+
 - [Awesome Image Quality Assessment (IQA)](#awesome-image-quality-assessment-iqa)
   - [Papers](#papers)
     - [ROI-based IQA](#roi-based-iqa)
