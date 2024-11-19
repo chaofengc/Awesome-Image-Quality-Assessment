@@ -5,6 +5,8 @@ A comprehensive collection of IQA papers, datasets and codes. We also provide Py
 
 - [Awesome Image Quality Assessment (IQA)](#awesome-image-quality-assessment-iqa)
   - [Papers](#papers)
+    - [ROI-based IQA](#roi-based-iqa)
+    - [Unified IQA](#unified-iqa)
     - [Explainable IQA](#explainable-iqa)
     - [AIGC IQA](#aigc-iqa)
     - [No Reference (NR)](#no-reference-nr)
@@ -20,6 +22,10 @@ Related Resources:
 
 ## Papers
 
+### ROI-based IQA
+> Quality assessment for region of interest (ROI)
+- `[Arxiv 2024]` [SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning](https://arxiv.org/abs/2411.10161), Chen et al. [Github](https://github.com/chencn2020/SEAGULL) | [Bibtex](./iqa_ref.bib#L1081-L1089)
+ 
 ### Unified IQA
 > All IQA types unified in a single model
 
