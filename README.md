@@ -16,6 +16,7 @@ A comprehensive collection of IQA papers, datasets and codes. We also provide Py
     - [No Reference (NR)](#no-reference-nr)
     - [Full Reference (FR)](#full-reference-fr)
     - [Image Aesthetic Assessment](#image-aesthetic-assessment)
+    - [Image Intrinsic Scale Assessment](#image-intrinsic-scale-assessment)
     - [Others](#others)
   - [Datasets](#datasets)
     - [IQA datasets](#iqa-datasets)
@@ -60,7 +61,7 @@ Related Resources:
 ### No Reference (NR)
 - `[Arxiv 2024]` [Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment](https://arxiv.org/abs/2406.09546), Guan et al. [Bibtex](./iqa_ref.bib#L980-L986)
 - `[Arxiv 2024]` [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://arxiv.org/abs/2405.19298), Zhe et al. [Bibtex](./iqa_ref.bib#L964-L971)
-- `[Arxiv 2024]` [Quality-aware Image-Text Alignment for Real-World Image Quality Assessment](https://arxiv.org/abs/2403.11176), Agnolucci et al. [Github](https://github.com/miccunifi/QualiCLIP) | [Bibtex](./iqa_ref.bib#L949-L954)
+- `[Arxiv 2024]` [Quality-aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment](https://arxiv.org/abs/2403.11176), Agnolucci et al. [Github](https://github.com/miccunifi/QualiCLIP) | [Bibtex](./iqa_ref.bib#L950-L955)
 - `[ACCV 2024]` [ATTIQA: Generalizable Image Quality Feature Extractor using Attribute-aware Pretraining](https://arxiv.org/abs/2406.01020), Kwon et al. [Bibtex](./iqa_ref.bib#L1091-L1098)
 - `[CVPR 2024]` [Blind Image Quality Assessment Based On Geometric Order Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Shin_Blind_Image_Quality_Assessment_Based_on_Geometric_Order_Learning_CVPR_2024_paper.pdf), Shin et al. [Github](https://github.com/nhshin-mcl/QCN?tab=readme-ov-file) | [Bibtex](./iqa_ref.bib#L1074-L1079)
 - `[CVPR 2024]` [Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment](https://arxiv.org/abs/2405.04167), Li et al. [Bibtex](./iqa_ref.bib#L956-L961)
@@ -153,6 +154,9 @@ Related Resources:
 - `[ECCV2024]` [Scaling Up Personalized Aesthetic Assessment via Task Vector Arithmetic](https://arxiv.org/abs/2407.07176), Yun et al. [Bibtex](./iqa_ref.bib#L988-L993) | [Project](https://yeolj00.github.io/personal-projects/personalized-aesthetics/)
 - `[CVPR2023]` [VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining](https://arxiv.org/abs/2303.14302), Ke et al. [Bibtex](./iqa_ref.bib#L784-L789)
 - `[CVPR2023]` [Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method](https://arxiv.org/abs/2303.14968), Yi et al. [Github](https://github.com/Dreemurr-T/BAID) | [Bibtex](./iqa_ref.bib#L777-L782)
+
+### Image Intrinsic Scale Assessment
+- `[Arxiv 2024]` [Image Intrinsic Scale Assessment: Bridging the Gap Between Quality and Resolution](https://arxiv.org/abs/2502.06476), Hosu et al. [Bibtex](./iqa_ref.bib#L1100-L1105)
 
 ### Others 
 
