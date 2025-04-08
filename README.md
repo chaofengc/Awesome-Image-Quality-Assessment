@@ -40,6 +40,7 @@ Related Resources:
 ### Explainable IQA 
 > Human readable IQA, mostly with large language models
 
+- `[Arxiv 2025]` [Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](https://arxiv.org/pdf/2503.22679), Li et al. [Github](https://github.com/lwq20020127/Q-Insight) | [Bibtex](./iqa_ref.bib#L1107-L1112)
 - `[TPAMI 2024]` [Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from Single Images to Pairs](https://arxiv.org/abs/2402.07116), Zhang et al. [Github](https://github.com/Q-Future/Q-Bench) | [Bibtex](./iqa_ref.bib#L1044-L1049)
 - `[ACM MM2024]` [Q-Ground: Image Quality Grounding with Large Multi-modality Models](https://arxiv.org/abs/2407.17035), Chen et al. [Bibtex](./iqa_ref.bib#L1002-L1007) | [Github](https://github.com/Q-Future/Q-Ground)
 - `[Arxiv 2024]` [VisualCritic: Making LMMs Perceive Visual Quality Like Humans](https://arxiv.org/abs/2403.12806), Huang et al. [Bibtex](./iqa_ref.bib#L940-L947)
@@ -149,6 +150,7 @@ Related Resources:
 
 ### Image Aesthetic Assessment 
 
+- `[CVPR2025]` [Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment](https://arxiv.org/abs/2504.02522), Behrad et al. [Github](https://github.com/FBehrad/Charm) | [Bibtex](./iqa_ref.bib#L1114-L1119)
 - `[ACMMM 2024]` [AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception](https://arxiv.org/abs/2404.09624), Huang et al. [Project](https://yipoh.github.io/aes-expert/) | [Github](https://github.com/yipoh/AesExpert) | [Bibtex](./iqa_ref.bib#L1037-L1042)
 - `[Arxiv 2024]` [AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception](https://arxiv.org/abs/2401.08276), Huang et al. [Github](https://github.com/yipoh/AesBench) | [Bibtex](./iqa_ref.bib#L899-L904)
 - `[ECCV2024]` [Scaling Up Personalized Aesthetic Assessment via Task Vector Arithmetic](https://arxiv.org/abs/2407.07176), Yun et al. [Bibtex](./iqa_ref.bib#L988-L993) | [Project](https://yeolj00.github.io/personal-projects/personalized-aesthetics/)
