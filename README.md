@@ -29,7 +29,6 @@ Related Resources:
 ### Spatial-Aware IQA
 > Quality assessment with spatial context and local structures 
 
-- `[ICCV 2025]` [Image Intrinsoc Scale Assessment: Bridging the Gap Between Quality and Resolution](https://arxiv.org/abs/2502.06476), Hosu et al. [Bibtex](./iqa_ref.bib#L1100-L1105)
 - `[Eurographics 2024]` [Enhancing image quality prediction with self-supervised visual masking](https://arxiv.org/abs/2305.19858), Uğur et al. [Github](https://github.com/ugurcogalan06/Enhanced-IQM/) | [Project](https://enhancediqm.mpi-inf.mpg.de/) | [Bibtex](./iqa_ref.bib#L1059-L1065)
 - `[Arxiv 2024]` [SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning](https://arxiv.org/abs/2411.10161), Chen et al. [Github](https://github.com/chencn2020/SEAGULL) | [Bibtex](./iqa_ref.bib#L1081-L1089)
 - `[ACM MM2024]` [Q-Ground: Image Quality Grounding with Large Multi-modality Models](https://arxiv.org/abs/2407.17035), Chen et al. [Bibtex](./iqa_ref.bib#L1002-L1007) | [Github](https://github.com/Q-Future/Q-Ground)
@@ -161,6 +160,11 @@ Related Resources:
 
 ### Others 
 
+#### Image Intrinsic Scale Assessment (IISA)
+> Aims to predict the Image Intrinsic Scale, _i.e._ the scale at which an image shows the best quality
+
+- `[ICCV 2025]` [Image Intrinsoc Scale Assessment: Bridging the Gap Between Quality and Resolution](https://arxiv.org/abs/2502.06476), Hosu et al. [Bibtex](./iqa_ref.bib#L1100-L1105) | [Github](https://github.com/SonyResearch/IISA)
+
 #### Color IQA
 
 - `[ECCV 2024]` [Multiscale Sliced Wasserstein Distances as Perceptual Color Difference Measures](https://arxiv.org/abs/2407.10181), He et al. [Github](https://github.com/real-hjq/MS-SWD) | [Bibtex](./iqa_ref.bib#L1051-L1058)
@@ -221,3 +225,4 @@ Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex
 | ----------- | ---------- | ------------| ---------- | ------ | ------ | ----- |
 | [arXiv](https://arxiv.org/abs/1801.03924) | BAPPS(LPIPS) | FR | CVPR2018 | [Project](https://richzhang.github.io/PerceptualSimilarity/) | 187.7k  | 484k 
 | [arXiv](https://arxiv.org/abs/1806.02067) | PieAPP | FR | CVPR2018 | [Project](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/) | 200 images | 2.3M 
+
