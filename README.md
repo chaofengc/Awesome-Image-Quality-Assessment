@@ -48,7 +48,8 @@ Related Resources:
 - `[Arxiv 2024]` [VisualCritic: Making LMMs Perceive Visual Quality Like Humans](https://arxiv.org/abs/2403.12806), Huang et al. [Bibtex](./iqa_ref.bib#L940-L947)
 - `[ECCV 2024]` [A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment](https://arxiv.org/abs/2403.10854), Wu et al. [Github]() | [Bibtex](./iqa_ref.bib#L922-L929)
 - `[ECCV 2024]` [Towards Open-ended Visual Quality Comparison](https://arxiv.org/abs/2402.16641), Wu et al. [Github](https://github.com/Q-Future/Co-Instruct) | [Bibtex](./iqa_ref.bib#L906-L913)
-- `[ECCV 2024]` [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://arxiv.org/abs/2312.08962), You et al. [Github](https://github.com/XPixelGroup/DepictQA) | [Project](https://depictqa.github.io/) | [Bibtex](./iqa_ref.bib#L886-L893)
+- `[ECCV 2024]` [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://arxiv.org/abs/2312.08962), You et al. [Github](https://github.com/XPixelGroup/DepictQA) | [Project](https://depictqa.github.io/) | [Bibtex](./iqa_ref.bib#L886-L894)
+- `[Arxiv 2024]` [Descriptive Image Quality Assessment in the Wild](https://arxiv.org/abs/2405.18842), You et al. [Github](https://github.com/XPixelGroup/DepictQA) | [Project](https://depictqa.github.io/depictqa-wild/) | [Bibtex](./iqa_ref.bib#L896-L903)
 - `[CVPR 2024]` [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://arxiv.org/abs/2311.06783), Wu et al. [Github](https://github.com/Q-Future/Q-Instruct) | [Bibtex](./iqa_ref.bib#L876-L883)
 
 ### AIGC IQA
