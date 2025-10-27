@@ -29,51 +29,51 @@ Related Resources:
 ### Spatial-Aware IQA
 > Quality assessment with spatial context and local structures 
 
-- `[Eurographics 2024]` [Enhancing image quality prediction with self-supervised visual masking](https://arxiv.org/abs/2305.19858), Uğur et al. [Github](https://github.com/ugurcogalan06/Enhanced-IQM/) | [Project](https://enhancediqm.mpi-inf.mpg.de/) | [Bibtex](./iqa_ref.bib#L1133-L1138)
-- `[Arxiv 2024]` [SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning](https://arxiv.org/abs/2411.10161), Chen et al. [Github](https://github.com/chencn2020/SEAGULL) | [Bibtex](./iqa_ref.bib#L1093-L1101)
-- `[ACM MM2024]` [Q-Ground: Image Quality Grounding with Large Multi-modality Models](https://arxiv.org/abs/2407.17035), Chen et al. [Bibtex](./iqa_ref.bib#L1000-L1005) | [Github](https://github.com/Q-Future/Q-Ground)
+- `[Eurographics 2024]` [Enhancing image quality prediction with self-supervised visual masking](https://arxiv.org/abs/2305.19858), Uğur et al. [Github](https://github.com/ugurcogalan06/Enhanced-IQM/) | [Project](https://enhancediqm.mpi-inf.mpg.de/) | [Bibtex](./iqa_ref.bib#L1134-L1139)
+- `[Arxiv 2024]` [SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning](https://arxiv.org/abs/2411.10161), Chen et al. [Github](https://github.com/chencn2020/SEAGULL) | [Bibtex](./iqa_ref.bib#L1094-L1102)
+- `[ACM MM2024]` [Q-Ground: Image Quality Grounding with Large Multi-modality Models](https://arxiv.org/abs/2407.17035), Chen et al. [Bibtex](./iqa_ref.bib#L1001-L1006) | [Github](https://github.com/Q-Future/Q-Ground)
  
 ### Unified IQA
 > All IQA types unified in a single model
 
-- `[ECCV 2024]` [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts](https://arxiv.org/abs/2403.04993), Chen et al. [Bibtex](./iqa_ref.bib#L944-L951)
-- `[ICML 2024]` [Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels](https://arxiv.org/abs/2312.17090), Wu et al. [Github](https://github.com/TianheWu/MLLMs-for-IQA) | [Bibtex](./iqa_ref.bib#L868-L875)
+- `[ECCV 2024]` [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts](https://arxiv.org/abs/2403.04993), Chen et al. [Bibtex](./iqa_ref.bib#L945-L952)
+- `[ICML 2024]` [Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels](https://arxiv.org/abs/2312.17090), Wu et al. [Github](https://github.com/TianheWu/MLLMs-for-IQA) | [Bibtex](./iqa_ref.bib#L869-L876)
 
 ### Explainable IQA 
 > Human readable IQA, mostly with large language models
 
-- `[Arxiv 2025]` [Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model](https://arxiv.org/pdf/2503.06141), Li et al. [Github](https://github.com/AMAP-ML/RealQA) | [Bibtex](./iqa_ref.bib#L1140-L1145)
-- `[Arxiv 2025]` [Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](https://arxiv.org/pdf/2503.22679), Li et al. [Github](https://github.com/lwq20020127/Q-Insight) | [Bibtex](./iqa_ref.bib#L1119-L1124)
-- `[TPAMI 2024]` [Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from Single Images to Pairs](https://arxiv.org/abs/2402.07116), Zhang et al. [Github](https://github.com/Q-Future/Q-Bench) | [Bibtex](./iqa_ref.bib#L1056-L1061)
-- `[Arxiv 2024]` [VisualCritic: Making LMMs Perceive Visual Quality Like Humans](https://arxiv.org/abs/2403.12806), Huang et al. [Bibtex](./iqa_ref.bib#L953-L960)
-- `[ECCV 2024]` [A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment](https://arxiv.org/abs/2403.10854), Wu et al. [Github]() | [Bibtex](./iqa_ref.bib#L935-L942)
-- `[ECCV 2024]` [Towards Open-ended Visual Quality Comparison](https://arxiv.org/abs/2402.16641), Wu et al. [Github](https://github.com/Q-Future/Co-Instruct) | [Bibtex](./iqa_ref.bib#L919-L926)
-- `[ECCV 2024]` [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://arxiv.org/abs/2312.08962), You et al. [Github](https://github.com/XPixelGroup/DepictQA) | [Project](https://depictqa.github.io/) | [Bibtex](./iqa_ref.bib#L886-L894)
-- `[Arxiv 2024]` [Descriptive Image Quality Assessment in the Wild](https://arxiv.org/abs/2405.18842), You et al. [Github](https://github.com/XPixelGroup/DepictQA) | [Project](https://depictqa.github.io/depictqa-wild/) | [Bibtex](./iqa_ref.bib#L896-L903)
-- `[CVPR 2024]` [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://arxiv.org/abs/2311.06783), Wu et al. [Github](https://github.com/Q-Future/Q-Instruct) | [Bibtex](./iqa_ref.bib#L877-L884)
+- `[Arxiv 2025]` [Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model](https://arxiv.org/pdf/2503.06141), Li et al. [Github](https://github.com/AMAP-ML/RealQA) | [Bibtex](./iqa_ref.bib#L1141-L1146)
+- `[Arxiv 2025]` [Q-Insight: Understanding Image Quality via Visual Reinforcement Learning](https://arxiv.org/pdf/2503.22679), Li et al. [Github](https://github.com/lwq20020127/Q-Insight) | [Bibtex](./iqa_ref.bib#L1120-L1125)
+- `[TPAMI 2024]` [Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from Single Images to Pairs](https://arxiv.org/abs/2402.07116), Zhang et al. [Github](https://github.com/Q-Future/Q-Bench) | [Bibtex](./iqa_ref.bib#L1057-L1062)
+- `[Arxiv 2024]` [VisualCritic: Making LMMs Perceive Visual Quality Like Humans](https://arxiv.org/abs/2403.12806), Huang et al. [Bibtex](./iqa_ref.bib#L954-L961)
+- `[ECCV 2024]` [A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment](https://arxiv.org/abs/2403.10854), Wu et al. [Github]() | [Bibtex](./iqa_ref.bib#L936-L943)
+- `[ECCV 2024]` [Towards Open-ended Visual Quality Comparison](https://arxiv.org/abs/2402.16641), Wu et al. [Github](https://github.com/Q-Future/Co-Instruct) | [Bibtex](./iqa_ref.bib#L920-L927)
+- `[ECCV 2024]` [Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models](https://arxiv.org/abs/2312.08962), You et al. [Github](https://github.com/XPixelGroup/DepictQA) | [Project](https://depictqa.github.io/) | [Bibtex](./iqa_ref.bib#L887-L895)
+- `[Arxiv 2024]` [Descriptive Image Quality Assessment in the Wild](https://arxiv.org/abs/2405.18842), You et al. [Github](https://github.com/XPixelGroup/DepictQA) | [Project](https://depictqa.github.io/depictqa-wild/) | [Bibtex](./iqa_ref.bib#L897-L904)
+- `[CVPR 2024]` [Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models](https://arxiv.org/abs/2311.06783), Wu et al. [Github](https://github.com/Q-Future/Q-Instruct) | [Bibtex](./iqa_ref.bib#L878-L885)
 
 ### AIGC IQA
 
-- ✨`[CVPR 2024 (best paper)]` [Rich Human Feedback for Text-to-Image Generation](https://arxiv.org/abs/2312.10240), Liang et al. [Github](https://github.com/google-research-datasets/richhf-18k) | [Bibtex](./iqa_ref.bib#L1079-L1084)
-- `[ICLR 2024]` [Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision](https://arxiv.org/abs/2309.14181), Wu et al. [Github](https://github.com/Q-Future/Q-Bench) | [Bibtex](./iqa_ref.bib#L834-L839)
-- `[ICCV 2023]` [TIFA: Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897), Hu et al. [Github](https://github.com/Yushi-Hu/tifa) | [Bibtex](./iqa_ref.bib#L841-L847) | [Project](https://tifa-benchmark.github.io/)
-- `[NeurIPS 2023]` [ImageReward: Learning and Evaluating Human Preferences for Text-to-image Generation](https://arxiv.org/abs/2304.05977), Xu et al. [Github](https://github.com/THUDM/ImageReward) | [Bibtex](./iqa_ref.bib#L818-L823)
-- `[ICCV2023]` [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/abs/2303.14420), Wu et al. [Github](https://github.com/tgxs002/align_sd) | [Github(HPSv2)](https://github.com/tgxs002/HPSv2) | [Bibtex](./iqa_ref.bib#L805-L810)
-- `[NeurIPS 2023]` [Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation](https://arxiv.org/abs/2305.01569), Yuval et al. [Github](https://github.com/yuvalkirstain/PickScore) | [Bibtex](./iqa_ref.bib#L812-L816)
-- `[TCSVT2023]` [A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment](https://arxiv.org/abs/2306.04717), Li et al. [Github](https://github.com/lcysyzxdxc/AGIQA-3k-Database) | [Bibtex](./iqa_ref.bib#L825-L832)
+- ✨`[CVPR 2024 (best paper)]` [Rich Human Feedback for Text-to-Image Generation](https://arxiv.org/abs/2312.10240), Liang et al. [Github](https://github.com/google-research-datasets/richhf-18k) | [Bibtex](./iqa_ref.bib#L1080-L1085)
+- `[ICLR 2024]` [Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision](https://arxiv.org/abs/2309.14181), Wu et al. [Github](https://github.com/Q-Future/Q-Bench) | [Bibtex](./iqa_ref.bib#L835-L840)
+- `[ICCV 2023]` [TIFA: Text-to-Image Faithfulness Evaluation with Question Answering](https://arxiv.org/abs/2303.11897), Hu et al. [Github](https://github.com/Yushi-Hu/tifa) | [Bibtex](./iqa_ref.bib#L842-L848) | [Project](https://tifa-benchmark.github.io/)
+- `[NeurIPS 2023]` [ImageReward: Learning and Evaluating Human Preferences for Text-to-image Generation](https://arxiv.org/abs/2304.05977), Xu et al. [Github](https://github.com/THUDM/ImageReward) | [Bibtex](./iqa_ref.bib#L819-L824)
+- `[ICCV2023]` [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/abs/2303.14420), Wu et al. [Github](https://github.com/tgxs002/align_sd) | [Github(HPSv2)](https://github.com/tgxs002/HPSv2) | [Bibtex](./iqa_ref.bib#L806-L811)
+- `[NeurIPS 2023]` [Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation](https://arxiv.org/abs/2305.01569), Yuval et al. [Github](https://github.com/yuvalkirstain/PickScore) | [Bibtex](./iqa_ref.bib#L813-L817)
+- `[TCSVT2023]` [A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment](https://arxiv.org/abs/2306.04717), Li et al. [Github](https://github.com/lcysyzxdxc/AGIQA-3k-Database) | [Bibtex](./iqa_ref.bib#L826-L833)
 
 ### No Reference (NR)
-- `[Arxiv 2024]` [Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment](https://arxiv.org/abs/2406.09546), Guan et al. [Bibtex](./iqa_ref.bib#L992-L998)
-- `[Arxiv 2024]` [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://arxiv.org/abs/2405.19298), Zhe et al. [Bibtex](./iqa_ref.bib#L976-L983)
-- `[Arxiv 2024]` [Quality-aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment](https://arxiv.org/abs/2403.11176), Agnolucci et al. [Github](https://github.com/miccunifi/QualiCLIP) | [Bibtex](./iqa_ref.bib#L962-L967)
-- `[ACCV 2024]` [ATTIQA: Generalizable Image Quality Feature Extractor using Attribute-aware Pretraining](https://arxiv.org/abs/2406.01020), Kwon et al. [Bibtex](./iqa_ref.bib#L1103-L1110)
-- `[CVPR 2024]` [Blind Image Quality Assessment Based On Geometric Order Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Shin_Blind_Image_Quality_Assessment_Based_on_Geometric_Order_Learning_CVPR_2024_paper.pdf), Shin et al. [Github](https://github.com/nhshin-mcl/QCN?tab=readme-ov-file) | [Bibtex](./iqa_ref.bib#L1086-L1091)
-- `[CVPR 2024]` [Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment](https://arxiv.org/abs/2405.04167), Li et al. [Bibtex](./iqa_ref.bib#L969-L974)
+- `[Arxiv 2024]` [Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment](https://arxiv.org/abs/2406.09546), Guan et al. [Bibtex](./iqa_ref.bib#L993-L999)
+- `[Arxiv 2024]` [Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare](https://arxiv.org/abs/2405.19298), Zhe et al. [Bibtex](./iqa_ref.bib#L977-L984)
+- `[Arxiv 2024]` [Quality-aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment](https://arxiv.org/abs/2403.11176), Agnolucci et al. [Github](https://github.com/miccunifi/QualiCLIP) | [Bibtex](./iqa_ref.bib#L963-L968)
+- `[ACCV 2024]` [ATTIQA: Generalizable Image Quality Feature Extractor using Attribute-aware Pretraining](https://arxiv.org/abs/2406.01020), Kwon et al. [Bibtex](./iqa_ref.bib#L1104-L1111)
+- `[CVPR 2024]` [Blind Image Quality Assessment Based On Geometric Order Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Shin_Blind_Image_Quality_Assessment_Based_on_Geometric_Order_Learning_CVPR_2024_paper.pdf), Shin et al. [Github](https://github.com/nhshin-mcl/QCN?tab=readme-ov-file) | [Bibtex](./iqa_ref.bib#L1087-L1092)
+- `[CVPR 2024]` [Bridging the Synthetic-to-Authentic Gap: Distortion-Guided Unsupervised Domain Adaptation for Blind Image Quality Assessment](https://arxiv.org/abs/2405.04167), Li et al. [Bibtex](./iqa_ref.bib#L970-L975)
 - `[CVPR 2024]` [Boosting Image Quality Assessment through Efficient Transformer Adaptation with Local Feature Enhancement
-](https://arxiv.org/abs/2308.12001), Xu et al. | [Bibtex](./iqa_ref.bib#L928-L933)
-- `[WACV2024]` [ARNIQA: Learning Distortion Manifold for Image Quality Assessment](https://arxiv.org/abs/2310.14918), Agnolucci et al. [Github](https://github.com/miccunifi/ARNIQA) | [Bibtex](./iqa_ref.bib#L859-L866)
-- `[TIP2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) | [Bibtex](./iqa_ref.bib#L905-L910)
-- `[ICCV2023]` [Test Time Adaptation for Blind Image Quality Assessment](https://arxiv.org/abs/2307.14735), Roy et al. [Github](https://github.com/Shankhanil006/TTA-IQA) | [Bibtex](./iqa_ref.bib#L799-L803)
+](https://arxiv.org/abs/2308.12001), Xu et al. | [Bibtex](./iqa_ref.bib#L929-L934)
+- `[WACV2024]` [ARNIQA: Learning Distortion Manifold for Image Quality Assessment](https://arxiv.org/abs/2310.14918), Agnolucci et al. [Github](https://github.com/miccunifi/ARNIQA) | [Bibtex](./iqa_ref.bib#L860-L867)
+- `[TIP2023]` [TOPIQ: A Top-down Approach from Semantics to Distortions for Image Quality Assessment](https://arxiv.org/abs/2308.03060), Chen et al. [Github](https://github.com/chaofengc/IQA-PyTorch) | [Bibtex](./iqa_ref.bib#L906-L911)
+- `[ICCV2023]` [Test Time Adaptation for Blind Image Quality Assessment](https://arxiv.org/abs/2307.14735), Roy et al. [Github](https://github.com/Shankhanil006/TTA-IQA) | [Bibtex](./iqa_ref.bib#L799-L804)
 - `[CVPR2023]` [Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild](https://arxiv.org/abs/2304.00451), Saha et al. [Bibtex](./iqa_ref.bib#L792-L797) | [Github](https://github.com/avinabsaha/ReIQA)
 - `[CVPR2023]` [Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective](https://arxiv.org/abs/2303.14968), Zhang et al. [Github](https://github.com/zwx8981/LIQE) | [Bibtex](./iqa_ref.bib#L771-L776)
 - `[CVPR2023]` [Quality-aware Pre-trained Models for Blind Image Quality Assessment](https://arxiv.org/abs/2303.00521), Zhao et al. [Bibtex](./iqa_ref.bib#L764-L769)
@@ -82,7 +82,7 @@ Related Resources:
 - `[AAAI2023]` [Data-Efficient Image Quality Assessment with Attention-Panel Decoder](https://arxiv.org/abs/2304.04952), Qin et al. [Github](https://github.com/narthchin/DEIQT) | [Bibtex](./iqa_ref.bib#L746-L751)
 - `[TPAMI2022]` [Continual Learning for Blind Image Quality Assessment
 ](https://arxiv.org/abs/2102.09717), Zhang et al. [Github](https://github.com/zwx8981/BIQA_CL) | [Bibtex](./iqa_ref.bib#L739-L744)
-- `[TIP2022]` [No-Reference Image Quality Assessment by Hallucinating Pristine Features](https://arxiv.org/abs/2108.04165), Chen et al. [Github](https://github.com/Baoliang93/FPR) | [Bibtex](./iqa_ref.bib#L849-L857)
+- `[TIP2022]` [No-Reference Image Quality Assessment by Hallucinating Pristine Features](https://arxiv.org/abs/2108.04165), Chen et al. [Github](https://github.com/Baoliang93/FPR) | [Bibtex](./iqa_ref.bib#L850-L858)
 - `[TIP2022]` [VCRNet: Visual Compensation Restoration Network for No-Reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9694502), Pan et al. [Github](https://github.com/NUIST-Videocoding/VCRNet) | [Bibtex](./iqa_ref.bib#L753-L762)
 - `[TMM2022]` [GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment](https://arxiv.org/abs/2103.07666), Sun et al. [Github](https://github.com/geekyutao/GraphIQA) | [Bibtex](./iqa_ref.bib#L702-L708)
 - `[CVPR2021]` [Troubleshooting Blind Image Quality Models in the Wild](https://arxiv.org/abs/2105.06747), Wang et al. [Github](https://github.com/wangzhihua520/troubleshooting_BIQA) | [Bibtex](./iqa_ref.bib#L717-L723)
@@ -153,10 +153,10 @@ Related Resources:
 
 ### Image Aesthetic Assessment 
 
-- `[CVPR2025]` [Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment](https://arxiv.org/abs/2504.02522), Behrad et al. [Github](https://github.com/FBehrad/Charm) | [Bibtex](./iqa_ref.bib#L1126-L1131)
-- `[ACMMM 2024]` [AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception](https://arxiv.org/abs/2404.09624), Huang et al. [Project](https://yipoh.github.io/aes-expert/) | [Github](https://github.com/yipoh/AesExpert) | [Bibtex](./iqa_ref.bib#L1049-L1054)
-- `[Arxiv 2024]` [AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception](https://arxiv.org/abs/2401.08276), Huang et al. [Github](https://github.com/yipoh/AesBench) | [Bibtex](./iqa_ref.bib#L912-L917)
-- `[ECCV2024]` [Scaling Up Personalized Aesthetic Assessment via Task Vector Arithmetic](https://arxiv.org/abs/2407.07176), Yun et al. [Bibtex](./iqa_ref.bib#L1000-L1005) | [Project](https://yeolj00.github.io/personal-projects/personalized-aesthetics/)
+- `[CVPR2025]` [Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment](https://arxiv.org/abs/2504.02522), Behrad et al. [Github](https://github.com/FBehrad/Charm) | [Bibtex](./iqa_ref.bib#L1127-L1132)
+- `[ACMMM 2024]` [AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception](https://arxiv.org/abs/2404.09624), Huang et al. [Project](https://yipoh.github.io/aes-expert/) | [Github](https://github.com/yipoh/AesExpert) | [Bibtex](./iqa_ref.bib#L1050-L1055)
+- `[Arxiv 2024]` [AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception](https://arxiv.org/abs/2401.08276), Huang et al. [Github](https://github.com/yipoh/AesBench) | [Bibtex](./iqa_ref.bib#L913-L918)
+- `[ECCV2024]` [Scaling Up Personalized Aesthetic Assessment via Task Vector Arithmetic](https://arxiv.org/abs/2407.07176), Yun et al. [Bibtex](./iqa_ref.bib#L1001-L1006) | [Project](https://yeolj00.github.io/personal-projects/personalized-aesthetics/)
 - `[CVPR2023]` [VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining](https://arxiv.org/abs/2303.14302), Ke et al. [Bibtex](./iqa_ref.bib#L785-L790)
 - `[CVPR2023]` [Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method](https://arxiv.org/abs/2303.14968), Yi et al. [Github](https://github.com/Dreemurr-T/BAID) | [Bibtex](./iqa_ref.bib#L778-L783)
 
@@ -165,30 +165,30 @@ Related Resources:
 #### Image Intrinsic Scale Assessment (IISA)
 > Aims to predict the Image Intrinsic Scale, _i.e._ the scale at which an image shows the best quality
 
-- `[ICCV 2025]` [Image Intrinsoc Scale Assessment: Bridging the Gap Between Quality and Resolution](https://arxiv.org/abs/2502.06476), Hosu et al. [Bibtex](./iqa_ref.bib#L1112-L1117) | [Github](https://github.com/SonyResearch/IISA)
+- `[ICCV 2025]` [Image Intrinsoc Scale Assessment: Bridging the Gap Between Quality and Resolution](https://arxiv.org/abs/2502.06476), Hosu et al. [Bibtex](./iqa_ref.bib#L1113-L1118) | [Github](https://github.com/SonyResearch/IISA)
 
 #### Color IQA
 
-- `[ECCV 2024]` [Multiscale Sliced Wasserstein Distances as Perceptual Color Difference Measures](https://arxiv.org/abs/2407.10181), He et al. [Github](https://github.com/real-hjq/MS-SWD) | [Bibtex](./iqa_ref.bib#L1063-L1070)
-- `[CVPR 2023]` [Learning a Deep Color Difference Metric for Photographic Images](https://arxiv.org/abs/2303.14964), Chen et al. [Github](https://github.com/haoychen3/CD-Flow) | [Bibtex](./iqa_ref.bib#L1072-L1077)
+- `[ECCV 2024]` [Multiscale Sliced Wasserstein Distances as Perceptual Color Difference Measures](https://arxiv.org/abs/2407.10181), He et al. [Github](https://github.com/real-hjq/MS-SWD) | [Bibtex](./iqa_ref.bib#L1064-L1071)
+- `[CVPR 2023]` [Learning a Deep Color Difference Metric for Photographic Images](https://arxiv.org/abs/2303.14964), Chen et al. [Github](https://github.com/haoychen3/CD-Flow) | [Bibtex](./iqa_ref.bib#L1073-L1078)
 
 #### Face IQA
 
-- `[CVPR2024]` [DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer](https://arxiv.org/abs/2406.09622), Chen et al. [Bibtex](./iqa_ref.bib#L985-L990) | [Project](https://dsl-fiqa.github.io/)
+- `[CVPR2024]` [DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer](https://arxiv.org/abs/2406.09622), Chen et al. [Bibtex](./iqa_ref.bib#L986-L991) | [Project](https://dsl-fiqa.github.io/)
 
 #### 360° Image (Omnidirectional Image) IQA
 - `[NeurIPS 2023]` [Assessor360: Multi-sequence Network for Blind Omnidirectional Image Quality Assessment
-](https://arxiv.org/abs/2305.10983), Wu et al. [Bibtex](./iqa_ref.bib#L1007-L1012) | [Github](https://github.com/TianheWu/Assessor360) 
+](https://arxiv.org/abs/2305.10983), Wu et al. [Bibtex](./iqa_ref.bib#L1008-L1013) | [Github](https://github.com/TianheWu/Assessor360) 
 
 #### Egocentric Spatial Images (Apple Vision Pro)
 
 - `[Arxiv 2024]` [ESIQA: Perceptual Quality Assessment of Vision-Pro-based
-Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex](./iqa_ref.bib#L1021-L1028) | [Github](https://github.com/IntMeGroup/ESIQA)
+Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex](./iqa_ref.bib#L1022-L1029) | [Github](https://github.com/IntMeGroup/ESIQA)
 
 #### Adversarial Attack on IQA
 
-- `[Arxiv 2024]` [Guardians of Image Quality: Benchmarking Defenses Against Adversarial Attacks on Image Quality Metrics](https://arxiv.org/abs/2408.01541), Gushchin et al. [Bibtex](./iqa_ref.bib#L1039-L1047) | [Github](https://github.com/msu-video-group/adversarial-defenses-for-iqa) | [Project](https://videoprocessing.ai/benchmarks/iqa-defenses.html)
-- `[NeurIPS 2022]` [Perceptual Attacks of No-Reference Image Quality Models with Human-in-the-Loop](https://arxiv.org/abs/2210.00933), Zhang et al. [Bibtex](./iqa_ref.bib#L1030-L1037) | [Github](https://github.com/zwx8981/PerceptualAttack_BIQA)
+- `[Arxiv 2024]` [Guardians of Image Quality: Benchmarking Defenses Against Adversarial Attacks on Image Quality Metrics](https://arxiv.org/abs/2408.01541), Gushchin et al. [Bibtex](./iqa_ref.bib#L1040-L1048) | [Github](https://github.com/msu-video-group/adversarial-defenses-for-iqa) | [Project](https://videoprocessing.ai/benchmarks/iqa-defenses.html)
+- `[NeurIPS 2022]` [Perceptual Attacks of No-Reference Image Quality Models with Human-in-the-Loop](https://arxiv.org/abs/2210.00933), Zhang et al. [Bibtex](./iqa_ref.bib#L1031-L1038) | [Github](https://github.com/zwx8981/PerceptualAttack_BIQA)
 
 #### IQA Losses
 
