@@ -29,6 +29,7 @@ Related Resources:
 ### Spatial-Aware IQA
 > Quality assessment with spatial context and local structures 
 
+- `[Arxiv 2024]` [Grounding-IQA: Grounding Multimodal Language Model for Image Quality Assessment](https://arxiv.org/abs/2411.17237), Chen et al. [Bibtex](./iqa_ref.bib#L1148-L1153)
 - `[Eurographics 2024]` [Enhancing image quality prediction with self-supervised visual masking](https://arxiv.org/abs/2305.19858), Uğur et al. [Github](https://github.com/ugurcogalan06/Enhanced-IQM/) | [Project](https://enhancediqm.mpi-inf.mpg.de/) | [Bibtex](./iqa_ref.bib#L1134-L1139)
 - `[Arxiv 2024]` [SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning](https://arxiv.org/abs/2411.10161), Chen et al. [Github](https://github.com/chencn2020/SEAGULL) | [Bibtex](./iqa_ref.bib#L1094-L1102)
 - `[ACM MM2024]` [Q-Ground: Image Quality Grounding with Large Multi-modality Models](https://arxiv.org/abs/2407.17035), Chen et al. [Bibtex](./iqa_ref.bib#L1001-L1006) | [Github](https://github.com/Q-Future/Q-Ground)
