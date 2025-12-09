@@ -23,6 +23,7 @@ A comprehensive collection of IQA papers, datasets and codes. We also provide Py
   
 Related Resources:
 - [Awesome Image Aesthetic Assessment and Cropping](https://github.com/bcmi/Awesome-Aesthetic-Evaluation-and-Cropping). A curated list of resources including papers, datasets, and relevant links to aesthetic evaluation and cropping.
+- [Image Quality Assessment Benchmark](https://github.com/weizhou-geek/Image-Quality-Assessment-Benchmark). Benchmark datasets and evaluation code for IQA.
 
 ## Papers
 
