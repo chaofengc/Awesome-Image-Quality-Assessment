@@ -40,6 +40,7 @@ Related Resources:
 ### Unified IQA
 > All IQA types unified in a single model
 
+- `[Arxiv 2025]` [UniPercept: A Unified Perceptual Framework for Multi-task Image Quality Assessment](https://arxiv.org/abs/2512.21675), et al. [Github](https://github.com/thunderbolt215/UniPercept) | [Bibtex](./iqa_ref.bib#L1155-L1160)
 - `[ECCV 2024]` [PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts](https://arxiv.org/abs/2403.04993), Chen et al. [Bibtex](./iqa_ref.bib#L945-L952)
 - `[ICML 2024]` [Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels](https://arxiv.org/abs/2312.17090), Wu et al. [Github](https://github.com/TianheWu/MLLMs-for-IQA) | [Bibtex](./iqa_ref.bib#L869-L876)
 
