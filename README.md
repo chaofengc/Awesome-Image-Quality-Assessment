@@ -13,9 +13,9 @@ A comprehensive collection of IQA papers, datasets and codes. We also provide Py
     - [Unified IQA](#unified-iqa)
     - [Explainable IQA](#explainable-iqa)
     - [AIGC IQA](#aigc-iqa)
+    - [Image Aesthetic Assessment](#image-aesthetic-assessment)
     - [No Reference (NR)](#no-reference-nr)
     - [Full Reference (FR)](#full-reference-fr)
-    - [Image Aesthetic Assessment](#image-aesthetic-assessment)
     - [Others](#others)
   - [Datasets](#datasets)
     - [IQA datasets](#iqa-datasets)
@@ -66,6 +66,16 @@ Related Resources:
 - `[ICCV2023]` [Better Aligning Text-to-Image Models with Human Preference](https://arxiv.org/abs/2303.14420), Wu et al. [Github](https://github.com/tgxs002/align_sd) | [Github(HPSv2)](https://github.com/tgxs002/HPSv2) | [Bibtex](./iqa_ref.bib#L806-L811)
 - `[NeurIPS 2023]` [Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation](https://arxiv.org/abs/2305.01569), Yuval et al. [Github](https://github.com/yuvalkirstain/PickScore) | [Bibtex](./iqa_ref.bib#L813-L817)
 - `[TCSVT2023]` [A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment](https://arxiv.org/abs/2306.04717), Li et al. [Github](https://github.com/lcysyzxdxc/AGIQA-3k-Database) | [Bibtex](./iqa_ref.bib#L826-L833)
+
+### Image Aesthetic Assessment 
+
+- `[Arxiv 2025]` [ArtiMuse: Fine-Grained Image Aesthetics Assessment with Joint Scoring and Expert-Level Understanding](https://arxiv.org/abs/2507.14533), Cao et al. [Project](https://thunderbolt215.github.io/ArtiMuse-project/) | [Github](https://github.com/thunderbolt215/ArtiMuse) | [Bibtex](./iqa_ref.bib#L1161-L1166)
+- `[CVPR2025]` [Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment](https://arxiv.org/abs/2504.02522), Behrad et al. [Github](https://github.com/FBehrad/Charm) | [Bibtex](./iqa_ref.bib#L1127-L1132)
+- `[ACMMM 2024]` [AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception](https://arxiv.org/abs/2404.09624), Huang et al. [Project](https://yipoh.github.io/aes-expert/) | [Github](https://github.com/yipoh/AesExpert) | [Bibtex](./iqa_ref.bib#L1050-L1055)
+- `[Arxiv 2024]` [AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception](https://arxiv.org/abs/2401.08276), Huang et al. [Github](https://github.com/yipoh/AesBench) | [Bibtex](./iqa_ref.bib#L913-L918)
+- `[ECCV2024]` [Scaling Up Personalized Aesthetic Assessment via Task Vector Arithmetic](https://arxiv.org/abs/2407.07176), Yun et al. [Bibtex](./iqa_ref.bib#L1001-L1006) | [Project](https://yeolj00.github.io/personal-projects/personalized-aesthetics/)
+- `[CVPR2023]` [VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining](https://arxiv.org/abs/2303.14302), Ke et al. [Bibtex](./iqa_ref.bib#L785-L790)
+- `[CVPR2023]` [Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method](https://arxiv.org/abs/2303.14968), Yi et al. [Github](https://github.com/Dreemurr-T/BAID) | [Bibtex](./iqa_ref.bib#L778-L783)
 
 ### No Reference (NR)
 - `[Arxiv 2024]` [Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment](https://arxiv.org/abs/2406.09546), Guan et al. [Bibtex](./iqa_ref.bib#L993-L999)
@@ -155,16 +165,6 @@ Related Resources:
 | [pdf](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) | SSIM | FR | TIP2004 | [Project](https://ece.uwaterloo.ca/~z70wang/research/ssim/) | Traditional 
 | []() | PSNR | FR | | []() | Traditional 
 <!-- | []() | | FR | | []() |  -->
-
-### Image Aesthetic Assessment 
-
-- `[Arxiv 2025]` [ArtiMuse: Fine-Grained Image Aesthetics Assessment with Joint Scoring and Expert-Level Understanding](https://arxiv.org/abs/2507.14533), Cao et al. [Project](https://thunderbolt215.github.io/ArtiMuse-project/) | [Github](https://github.com/thunderbolt215/ArtiMuse) | [Bibtex](./iqa_ref.bib#L1161-L1166)
-- `[CVPR2025]` [Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment](https://arxiv.org/abs/2504.02522), Behrad et al. [Github](https://github.com/FBehrad/Charm) | [Bibtex](./iqa_ref.bib#L1127-L1132)
-- `[ACMMM 2024]` [AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception](https://arxiv.org/abs/2404.09624), Huang et al. [Project](https://yipoh.github.io/aes-expert/) | [Github](https://github.com/yipoh/AesExpert) | [Bibtex](./iqa_ref.bib#L1050-L1055)
-- `[Arxiv 2024]` [AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception](https://arxiv.org/abs/2401.08276), Huang et al. [Github](https://github.com/yipoh/AesBench) | [Bibtex](./iqa_ref.bib#L913-L918)
-- `[ECCV2024]` [Scaling Up Personalized Aesthetic Assessment via Task Vector Arithmetic](https://arxiv.org/abs/2407.07176), Yun et al. [Bibtex](./iqa_ref.bib#L1001-L1006) | [Project](https://yeolj00.github.io/personal-projects/personalized-aesthetics/)
-- `[CVPR2023]` [VILA: Learning Image Aesthetics from User Comments with Vision-Language Pretraining](https://arxiv.org/abs/2303.14302), Ke et al. [Bibtex](./iqa_ref.bib#L785-L790)
-- `[CVPR2023]` [Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method](https://arxiv.org/abs/2303.14968), Yi et al. [Github](https://github.com/Dreemurr-T/BAID) | [Bibtex](./iqa_ref.bib#L778-L783)
 
 ### Others 
 
