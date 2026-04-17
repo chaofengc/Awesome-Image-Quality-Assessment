@@ -90,6 +90,7 @@ Related Resources:
 - `[CVPR2023]` [Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method](https://arxiv.org/abs/2303.14968), Yi et al. [Github](https://github.com/Dreemurr-T/BAID) | [Bibtex](./iqa_ref.bib#L778-L783)
 
 ### No Reference (NR)
+- `[AAAI 2026]` [Fine-grained Image Quality Assessment for Perceptual Image Restoration](https://arxiv.org/abs/2508.14475), Sheng et al. [Bibtex](./iqa_ref.bib#L1190-L1195) | [HomePage](https://sxfly99.github.io/FGResQ-Home/) | [Github](https://github.com/sxfly99/FGResQ)
 - `[Arxiv 2026]` [Decoupling Perception and Calibration: Label-Efficient Image Quality Assessment Framework](https://arxiv.org/abs/2601.20689), Li et al. [Bibtex](./iqa_ref.bib#L1190-L1195)
 - `[Arxiv 2026]` [SIQA: Toward Reliable Scientific Image Quality Assessment](https://arxiv.org/abs/2603.06700), Li et al. [Bibtex](./iqa_ref.bib#L1204-L1209)
 - `[Arxiv 2024]` [Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment](https://arxiv.org/abs/2406.09546), Guan et al. [Bibtex](./iqa_ref.bib#L993-L999)
