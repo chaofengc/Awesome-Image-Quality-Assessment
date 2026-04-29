@@ -48,6 +48,7 @@ Related Resources:
 ### Explainable IQA 
 > Human readable IQA, mostly with large language models
 
+- ✨`[ICLR 2026 Oral]` [Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment](https://arxiv.org/abs/2510.11369), Zhao et al. [Github](https://github.com/xuanyuzhang21/RALI) | [Bibtex](./iqa_ref.bib#L1268-L1273)
 - `[Arxiv 2026]` [Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment](https://arxiv.org/abs/2601.22920), Xie et al. [Github](https://github.com/AMAP-ML/Q-Hawkeye) | [Bibtex](./iqa_ref.bib#L1176-L1181)
 - `[Arxiv 2026]` [QualiRAG: Retrieval-Augmented Generation for Visual Quality Understanding](https://arxiv.org/abs/2601.18195), Cao et al. [Github](https://github.com/clh124/QualiRAG) | [Bibtex](./iqa_ref.bib#L1183-L1188)
 - ✨`[NeurIPS 2025]` [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460), Wu et al. [Github](https://github.com/TianheWu/VisualQuality-R1) | [Bibtex](./iqa_ref.bib#L1260-L1265)
