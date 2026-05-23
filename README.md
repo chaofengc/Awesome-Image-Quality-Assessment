@@ -251,6 +251,7 @@ Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex
 | ----------- | ---------- | ------------| ---------- | ------ | ------ | ----- |
 | [arXiv](https://arxiv.org/abs/1801.03924) | BAPPS(LPIPS) | FR | CVPR2018 | [Project](https://richzhang.github.io/PerceptualSimilarity/) | 187.7k  | 484k 
 | [arXiv](https://arxiv.org/abs/1806.02067) | PieAPP | FR | CVPR2018 | [Project](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/) | 200 images | 2.3M 
+| [arXiv](https://arxiv.org/pdf/2604.11004) | Panda  | FR | ICLR2026 | [Project](https://aismartperception.github.io/distortion-graph/) | 2200 images | >500k
 
 
 
