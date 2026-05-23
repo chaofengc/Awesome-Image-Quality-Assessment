@@ -48,6 +48,7 @@ Related Resources:
 ### Explainable IQA 
 > Human readable IQA, mostly with large language models
 
+- ✨`[ICLR 2026]` [Panoptic Pairwise Distortion Graph](https://arxiv.org/pdf/2604.11004), Janjua et al. [Github](https://github.com/AISmartPerception/distortion-graphs) | [Bibtex](./iqa_ref.bib#L1278-L1283)
 - `[Arxiv 2026]` [Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment](https://arxiv.org/abs/2601.22920), Xie et al. [Github](https://github.com/AMAP-ML/Q-Hawkeye) | [Bibtex](./iqa_ref.bib#L1176-L1181)
 - `[Arxiv 2026]` [QualiRAG: Retrieval-Augmented Generation for Visual Quality Understanding](https://arxiv.org/abs/2601.18195), Cao et al. [Github](https://github.com/clh124/QualiRAG) | [Bibtex](./iqa_ref.bib#L1183-L1188)
 - ✨`[ICLR 2026 (Oral)]` [Reasoning as Representation: Rethinking Visual Reinforcement Learning in Image Quality Assessment](https://arxiv.org/abs/2510.11369), Zhao et al. [Github](https://github.com/xuanyuzhang21/RALI) | [Bibtex](./iqa_ref.bib#L1278-L1283)
