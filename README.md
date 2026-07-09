@@ -26,8 +26,8 @@ Related Resources:
 - [Image Quality Assessment Benchmark](https://github.com/weizhou-geek/Image-Quality-Assessment-Benchmark). Benchmark datasets and evaluation code for IQA.
 - [Recent Image Quality Related Papers](https://github.com/weizhou-geek/Recent-Image-Quality-Related-Papers). A collection of recent papers related to image quality.
 - [Awesome Evaluation of Visual Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation). A curated list of resources for evaluation of visual generation.
+- [EditTools](https://edittools.org) - All-in-one browser-based file editor for PDF, images, audio, and video. Hundreds of free tools to edit and convert fi...
 
-- [ConvertTool](https://converttool.org) - Free online file converter with 300+ tools for PDF, images, audio, and video. Convert instantly in your browser — no ...
 ## Papers
 
 ### Spatial-Aware IQA
