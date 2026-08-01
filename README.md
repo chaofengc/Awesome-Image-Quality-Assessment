@@ -67,6 +67,7 @@ Related Resources:
 
 ### AIGC IQA
 
+- `[Website 2026]` [ImageBench V1: Text-to-Image Benchmark with VLM Judges](https://imagebench.ai/imagebench-v1), imagebench.ai. [Project](https://imagebench.ai) | [Methodology](https://imagebench.ai/methodology-v1)
 - `[Arxiv 2026]` [ELIQ: A Label-Free Framework for Quality Assessment of Evolving AI-Generated Images](https://arxiv.org/abs/2602.03558), Li et al. [Bibtex](./iqa_ref.bib#L1211-L1216)
 - `[Arxiv 2026]` [EduVQA: Benchmarking AI-Generated Video Quality Assessment for Education](https://arxiv.org/abs/2603.03066), Chen et al. [Bibtex](./iqa_ref.bib#L1218-L1223)
 - ✨`[CVPR 2024 (best paper)]` [Rich Human Feedback for Text-to-Image Generation](https://arxiv.org/abs/2312.10240), Liang et al. [Github](https://github.com/google-research-datasets/richhf-18k) | [Bibtex](./iqa_ref.bib#L1080-L1085)
