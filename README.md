@@ -48,6 +48,7 @@ Related Resources:
 ### Explainable IQA 
 > Human readable IQA, mostly with large language models
 
+- ✨`[CVPR 2026]` [Seeing Beyond 8bits: Subjective and Objective Quality Assessment of HDR-UGC Videos](https://arxiv.org/abs/2603.00938), Saini et al. [Github](https://github.com/shreshthsaini/Beyond8Bits) | [Bibtex](./iqa_ref.bib#L1302-L1307)
 - ✨`[ICLR 2026]` [Panoptic Pairwise Distortion Graph](https://arxiv.org/pdf/2604.11004), Janjua et al. [Github](https://github.com/AISmartPerception/distortion-graphs) | [Bibtex](./iqa_ref.bib#L1285-L1290)
 - `[Arxiv 2026]` [MR-IQA: A Unified Margin View of Regression and Ranking for Blind Image Quality Assessment](https://arxiv.org/abs/2606.29760), Li et al. [Github](https://github.com/RobinY99/MR-IQA) | [Bibtex](./iqa_ref.bib#L1292-L1300)
 - `[Arxiv 2026]` [Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment](https://arxiv.org/abs/2601.22920), Xie et al. [Github](https://github.com/AMAP-ML/Q-Hawkeye) | [Bibtex](./iqa_ref.bib#L1176-L1181)
@@ -227,6 +228,7 @@ Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex
 
 | Paper Link | Dataset Name | Type | Published | Website | Images | Annotations
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |------ |
+| [arXiv](https://arxiv.org/abs/2603.00938) | Beyond8Bits | NR | CVPR2026 | [Project](https://shreshthsaini.github.io/Beyond8Bits/) | 44k videos from 6.5k sources | 1.5M+ ratings |
 | [arXiv](https://arxiv.org/abs/2508.14475) | FGRestore | NR | AAAI2026 | [Project](https://sxfly99.github.io/FGResQ-Home/) | 18,408(30,886 pairs)| 45,318 |
 | [arXiv](https://arxiv.org/abs/2406.17472) | UHD-IQA | NR | ECCVW2024 | [Project](https://database.mmsp-kn.de/uhd-iqa-benchmark-database.html) | 6k (~3840x2160) | 20 ratings per image |
 | [arXiv](https://arxiv.org/abs/1912.10088) | PaQ-2-PiQ | NR | CVPR2020 | [Official github](https://github.com/baidut/PaQ-2-PiQ) | 40k, 120k patches | 4M |
