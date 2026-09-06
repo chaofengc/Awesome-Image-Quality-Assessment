@@ -32,6 +32,7 @@ Related Resources:
 ### Spatial-Aware IQA
 > Quality assessment with spatial context and local structures 
 
+- `[Arxiv 2026]` [Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback](https://arxiv.org/abs/2606.06113), Zhang et al. [Bibtex](./iqa_ref.bib#L1309-L1317)
 - `[Arxiv 2026]` [Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning](https://arxiv.org/abs/2601.02918), Liang et al. [Bibtex](./iqa_ref.bib#L1169-L1174)
 - `[Arxiv 2024]` [Grounding-IQA: Grounding Multimodal Language Model for Image Quality Assessment](https://arxiv.org/abs/2411.17237), Chen et al. [Bibtex](./iqa_ref.bib#L1148-L1153)
 - `[Eurographics 2024]` [Enhancing image quality prediction with self-supervised visual masking](https://arxiv.org/abs/2305.19858), Uğur et al. [Github](https://github.com/ugurcogalan06/Enhanced-IQM/) | [Project](https://enhancediqm.mpi-inf.mpg.de/) | [Bibtex](./iqa_ref.bib#L1134-L1139)
@@ -256,6 +257,4 @@ Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex
 | [arXiv](https://arxiv.org/abs/1801.03924) | BAPPS(LPIPS) | FR | CVPR2018 | [Project](https://richzhang.github.io/PerceptualSimilarity/) | 187.7k  | 484k 
 | [arXiv](https://arxiv.org/abs/1806.02067) | PieAPP | FR | CVPR2018 | [Project](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/) | 200 images | 2.3M 
 | [arXiv](https://arxiv.org/pdf/2604.11004) | Panda  | FR | ICLR2026 | [Project](https://aismartperception.github.io/distortion-graph/) | 2200 images | >500k
-
-
 
