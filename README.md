@@ -49,6 +49,7 @@ Related Resources:
 ### Explainable IQA 
 > Human readable IQA, mostly with large language models
 
+- `[Arxiv 2026]` [An Evolutionary Agentic Approach for Open-ended Image Quality Perception](https://arxiv.org/abs/2609.22942), Tang et al. [Bibtex](./iqa_ref.bib#L1319-L1327)
 - ✨`[CVPR 2026]` [Seeing Beyond 8bits: Subjective and Objective Quality Assessment of HDR-UGC Videos](https://arxiv.org/abs/2603.00938), Saini et al. [Github](https://github.com/shreshthsaini/Beyond8Bits) | [Bibtex](./iqa_ref.bib#L1302-L1307)
 - ✨`[ICLR 2026]` [Panoptic Pairwise Distortion Graph](https://arxiv.org/pdf/2604.11004), Janjua et al. [Github](https://github.com/AISmartPerception/distortion-graphs) | [Bibtex](./iqa_ref.bib#L1285-L1290)
 - `[Arxiv 2026]` [MR-IQA: A Unified Margin View of Regression and Ranking for Blind Image Quality Assessment](https://arxiv.org/abs/2606.29760), Li et al. [Github](https://github.com/RobinY99/MR-IQA) | [Bibtex](./iqa_ref.bib#L1292-L1300)
