@@ -161,6 +161,7 @@ Related Resources:
 <!-- | []() | | NR | | []() |  -->
 
 ### Full Reference (FR)
+- `[Arxiv 2026]` [JLD: Perceptual Distance Through A Jacobian Lens](https://arxiv.org/abs/2610.05967), Saini et al. [Github](https://github.com/shreshthsaini/jld) | [Project](https://shreshthsaini.github.io/jld/) | [Bibtex](./iqa_ref.bib#L1329-L1337)
 
 
 - `[ECCV2022]` [Shift-tolerant Perceptual Similarity Metric](https://arxiv.org/abs/2211.052152207.13686), Ghildyal et al. [Github](https://github.com/abhijay9/ShiftTolerant-LPIPS) | [Bibtex](./iqa_ref.bib#L732-L737)
