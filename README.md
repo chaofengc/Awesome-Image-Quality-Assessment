@@ -82,7 +82,7 @@ Related Resources:
 - `[TCSVT2023]` [A Fine-grained Subjective Perception & Alignment Database for AI Generated Image Quality Assessment](https://arxiv.org/abs/2306.04717), Li et al. [Github](https://github.com/lcysyzxdxc/AGIQA-3k-Database) | [Bibtex](./iqa_ref.bib#L826-L833)
 
 ### Image Aesthetic Assessment 
-
+* `[Arxiv 2026]` [Moonworks Lunara: Modeling Artistic Intelligence](https://arxiv.org/abs/2609.22272), Wang et al. [Dataset](https://huggingface.co/datasets/moonworks/lunara-art-eval) | [Bibtex](iqa_ref.bib)
 - `[CVPR 2026]` [Venus: Benchmarking and Empowering Multimodal Large Language Models for Aesthetic Guidance and Cropping](https://arxiv.org/abs/2602.23980), Du et al. [Github](https://github.com/PKU-ICST-MIPL/Venus_CVPR2026) | [Bibtex](./iqa_ref.bib#L1253-L1258)
 - `[CVPR 2026]` [Fine-grained Image Aesthetic Assessment: Learning Discriminative Scores from Relative Ranks](https://arxiv.org/abs/2603.03907), Yang et al. [Bibtex](./iqa_ref.bib#L1232-L1237)
 - `[AAAI 2026]` [Bridging Cognitive Gap: Hierarchical Description Learning for Artistic Image Aesthetics Assessment](https://arxiv.org/abs/2512.23413), Liu et al. [Github](https://github.com/Henglin-Liu/ArtQuant) | [Bibtex](./iqa_ref.bib#L1225-L1230)
