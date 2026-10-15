@@ -133,70 +133,61 @@ Related Resources:
 - `[TMM2022]` [GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment](https://arxiv.org/abs/2103.07666), Sun et al. [Github](https://github.com/geekyutao/GraphIQA) | [Bibtex](./iqa_ref.bib#L702-L708)
 - `[CVPR2021]` [Troubleshooting Blind Image Quality Models in the Wild](https://arxiv.org/abs/2105.06747), Wang et al. [Github](https://github.com/wangzhihua520/troubleshooting_BIQA) | [Bibtex](./iqa_ref.bib#L717-L723)
 
-| Paper Link | Method | Type | Published | Code | Keywords | 
-| ----------- | ---------- | ------------| ---------- | ------ | ------ |
-| [arXiv](https://arxiv.org/abs/2204.08958) | MANIQA | NR | CVPRW2022 | [Official](https://github.com/IIGROUP/MANIQA) | Transformer, multi-dimension attention, dual branch |
-| [arXiv](https://arxiv.org/abs/2108.06858) | TReS | NR | WACV2022 | [Official](https://github.com/isalirezag/TReS) | Transformer, relative ranking, self-consistency |
-| [pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0868.pdf) | KonIQ++ | NR | BMVC2021 | [Official](https://github.com/SSL92/koniqplusplus) | Multi-task with distortion prediction 
-| [arXiv](https://arxiv.org/abs/2108.05997) | MUSIQ | NR | ICCV2021 | [Official](https://github.com/google-research/google-research/tree/master/musiq) / [Pytorch](https://github.com/anse3832/MUSIQ) | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
-| [arXiv](https://arxiv.org/abs/2108.07948) | CKDN | NR | ICCV2021 | [Official](https://github.com/researchmm/CKDN) | Degraded reference, Conditional knowledge distillation (related to HIQA)
-| [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf) | HyperIQA | NR | CVPR2020 | [Official](https://github.com/SSL92/hyperIQA) | Content-aware hyper network 
-| [arXiv](https://arxiv.org/abs/2004.05508) | Meta-IQA | NR | CVPR2020 | [Official](https://github.com/zhuhancheng/MetaIQA) | Meta-learning 
-| [arXiv](https://arxiv.org/abs/2003.08932) | GIQA | NR | ECCV2020 | [Official](https://github.com/cientgu/GIQA) | Generated image 
-| [arXiv](https://arxiv.org/abs/1809.07517) | PI | NR | 2018 PIRM Challenge | [Project](https://github.com/roimehrez/PIRM2018) | 1/2 * (NIQE + (10 - NRQM)). 
-| [arXiv](https://arxiv.org/abs/1804.01681) | HIQA | NR | CVPR2018 | [Project](https://kwanyeelin.github.io/projects/HIQA/HIQA.html) | Hallucinated reference 
-| [arXiv](https://arxiv.org/pdf/1805.08493v1.pdf) | BPSQM | NR | CVPR2018 | []() | Pixel-wise quality map 
-| [arXiv](https://arxiv.org/abs/1707.08347) | RankIQA | NR | ICCV2017 | [Github](https://github.com/xialeiliu/RankIQA) | Pretrain on synthetically ranked data 
-| [pdf](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf) | CNNIQA | NR | CVPR2014 | [PyTorch](https://github.com/lidq92/CNNIQA) | First CNN-based NR-IQA 
-| []() | | | | []() | 
-| [arXiv](https://arxiv.org/abs/2005.13983) | UNIQUE | NR | TIP2021 | [Github](https://github.com/zwx8981/UNIQUE) | Combine synthetic and authentic image pairs 
-| [arXiv](https://arxiv.org/pdf/1907.02665.pdf) | DBCNN | NR | TCSVT2020 | [Official](https://github.com/zwx8981/DBCNN-PyTorch) | Two branches for synthetic and authentic distortions 
-| [pdf](http://www.jdl.link/doc/2011/20191226_08489929.pdf) | SFA | NR | TMM2019 | [Official](https://github.com/lidq92/SFA) | Aggregate ResNet50 features of multiple cropped patches
-| [pdf](https://drive.google.com/file/d/1tMjcllKP8SzTn-dWVmogxaCLpzL1L7nO/view)/[arXiv](https://arxiv.org/abs/1708.08190) | PQR | NR/Aesthetic | TIP2019 | [Official1](https://github.com/HuiZeng/Unified_IAA)/[Official2](https://github.com/HuiZeng/BIQA_Toolbox) | Unify different type of aesthetic labels 
-| [arXiv](https://arxiv.org/abs/1612.01697) | WaDIQaM (deepIQA) | NR/FR | TIP2018 | [PyTorch](https://github.com/lidq92/WaDIQaM) | Weighted average of patch qualities, shared FR/NR models 
-| [pdf](https://ieeexplore.ieee.org/ielx7/83/8347140/08352823.pdf) | NIMA | NR | TIP2018 | [PyTorch](https://github.com/kentsyx/Neural-IMage-Assessment)/[Tensorflow](https://github.com/idealo/image-quality-assessment) | Squared EMD loss 
-| [pdf](https://ece.uwaterloo.ca/~z70wang/publications/TIP_E2E_BIQA.pdf) | MEON | NR | TIP2017 | | Multi-task: distortion learning and quality prediction
-| [arXiv](https://arxiv.org/abs/1904.06505) | dipIQ | NR | TIP2017 | [download](https://ece.uwaterloo.ca/~k29ma/codes/dipIQ.rar) | Similar to RankIQA
-| []() | | | | []() | 
-| [arXiv](https://arxiv.org/abs/1612.05890) | NRQM (Ma) | NR | CVIU2017 | [Project](https://sites.google.com/site/chaoma99/sr-metric) | Traditional, Super resolution 
-| [arXiv](https://arxiv.org/abs/1609.04757) | FRIQUEE | NR | JoV2017 | [Official](https://github.com/utlive/FRIQUEE) | Authentically Distorted, Bag of Features
-| [IEEE](https://ieeexplore.ieee.org/document/7501619) | HOSA | NR | TIP2016 | [Matlab download](https://ieeexplore.ieee.org/document/7501619) | Traditional 
-| [pdf](https://live.ece.utexas.edu/publications/2015/zhang2015feature.pdf) | ILNIQE | NR | TIP2015 | [Official](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/ILNIQE/ILNIQE.htm) | Traditional 
-| [pdf](https://live.ece.utexas.edu/publications/2012/TIP%20BRISQUE.pdf) | BRISQUE | NR | TIP2012 | [Official](https://github.com/utlive/BRISQUE) | Traditional 
-| [pdf](https://live.ece.utexas.edu/publications/2012/saad_2012_tip.pdf) | BLIINDS-II | NR | TIP2012 | [Official](https://github.com/utlive/BLIINDS2) | 
-| [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.359.7510&rep=rep1&type=pdf) | CORNIA | NR | CVPR2012 | [Matlab download](https://github.com/HuiZeng/BIQA_Toolbox) | Codebook Representation 
-| [pdf](https://live.ece.utexas.edu/publications/2013/mittal2013.pdf) | NIQE | NR | SPL2012 | [Official](https://github.com/utlive/niqe) | Traditional 
-| [pdf](https://www.imaging.utk.edu/research/wcho/references/2011%20TIP%20BLINDS2.pdf) | DIIVINE | NR | TIP2011 | [Official](https://github.com/utlive/DIIVINE) | 
-<!-- | []() | | NR | | []() |  -->
+- `[CVPRW 2022]` [MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment](https://arxiv.org/abs/2204.08958), NR. [Github](https://github.com/IIGROUP/MANIQA) | Transformer, multi-dimension attention, dual branch
+- `[WACV 2022]` [No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency](https://arxiv.org/abs/2108.06858), TReS, NR. [Github](https://github.com/isalirezag/TReS) | Transformer, relative ranking, self-consistency
+- `[BMVC 2021]` [KonIQ++: Boosting No-Reference Image Quality Assessment in the Wild by Jointly Predicting Image Quality and Defects](https://www.bmvc2021-virtualconference.com/assets/papers/0868.pdf), NR. [Github](https://github.com/SSL92/koniqplusplus) | Multi-task with distortion prediction
+- `[ICCV 2021]` [MUSIQ: Multi-scale Image Quality Transformer](https://arxiv.org/abs/2108.05997), NR. [Github](https://github.com/google-research/google-research/tree/master/musiq) / [Github](https://github.com/anse3832/MUSIQ) | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
+- `[ICCV 2021]` [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment](https://arxiv.org/abs/2108.07948), CKDN, NR. [Github](https://github.com/researchmm/CKDN) | Degraded reference, Conditional knowledge distillation (related to HIQA)
+- `[CVPR 2020]` [Blindly Assess Image Quality in the Wild Guided by a Self-Adaptive Hyper Network](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf), HyperIQA, NR. [Github](https://github.com/SSL92/hyperIQA) | Content-aware hyper network
+- `[CVPR 2020]` [MetaIQA: Deep Meta-learning for No-Reference Image Quality Assessment](https://arxiv.org/abs/2004.05508), NR. [Github](https://github.com/zhuhancheng/MetaIQA) | Meta-learning
+- `[ECCV 2020]` [GIQA: Generated Image Quality Assessment](https://arxiv.org/abs/2003.08932), NR. [Github](https://github.com/cientgu/GIQA) | Generated image
+- `[PIRM Challenge 2018]` [The 2018 PIRM Challenge on Perceptual Image Super-resolution](https://arxiv.org/abs/1809.07517), PI, NR. [Github](https://github.com/roimehrez/PIRM2018) | 1/2 * (NIQE + (10 - NRQM)).
+- `[CVPR 2018]` [Hallucinated-IQA: No-Reference Image Quality Assessment via Adversarial Learning](https://arxiv.org/abs/1804.01681), HIQA, NR. [Project](https://kwanyeelin.github.io/projects/HIQA/HIQA.html) | Hallucinated reference
+- `[CVPR 2018]` [Blind Predicting Similar Quality Map for Image Quality Assessment](https://arxiv.org/pdf/1805.08493v1.pdf), BPSQM, NR. | Pixel-wise quality map
+- `[ICCV 2017]` [RankIQA: Learning from Rankings for No-reference Image Quality Assessment](https://arxiv.org/abs/1707.08347), NR. [Github](https://github.com/xialeiliu/RankIQA) | Pretrain on synthetically ranked data
+- `[CVPR 2014]` [Convolutional Neural Networks for No-Reference Image Quality Assessment](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kang_Convolutional_Neural_Networks_2014_CVPR_paper.pdf), CNNIQA, NR. [Github](https://github.com/lidq92/CNNIQA) | First CNN-based NR-IQA
+- `[TIP 2021]` [Uncertainty-Aware Blind Image Quality Assessment in the Laboratory and Wild](https://arxiv.org/abs/2005.13983), UNIQUE, NR. [Github](https://github.com/zwx8981/UNIQUE) | Combine synthetic and authentic image pairs
+- `[TCSVT 2020]` [Blind Image Quality Assessment Using A Deep Bilinear Convolutional Neural Network](https://arxiv.org/pdf/1907.02665.pdf), DBCNN, NR. [Github](https://github.com/zwx8981/DBCNN-PyTorch) | Two branches for synthetic and authentic distortions
+- `[TMM 2019]` [Which Has Better Visual Quality: The Clear Blue Sky or a Blurry Animal?](http://www.jdl.link/doc/2011/20191226_08489929.pdf), SFA, NR. [Github](https://github.com/lidq92/SFA) | Aggregate ResNet50 features of multiple cropped patches
+- `[TIP 2019]` [A Probabilistic Quality Representation Approach to Deep Blind Image Quality Prediction](https://drive.google.com/file/d/1tMjcllKP8SzTn-dWVmogxaCLpzL1L7nO/view), PQR, NR/Aesthetic. [Github](https://github.com/HuiZeng/Unified_IAA)/[Github](https://github.com/HuiZeng/BIQA_Toolbox) | Unify different type of aesthetic labels
+- `[TIP 2018]` [Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment](https://arxiv.org/abs/1612.01697), WaDIQaM, NR/FR. [Github](https://github.com/lidq92/WaDIQaM) | Weighted average of patch qualities, shared FR/NR models
+- `[TIP 2018]` [NIMA: Neural Image Assessment](https://ieeexplore.ieee.org/ielx7/83/8347140/08352823.pdf), NR. [Github](https://github.com/kentsyx/Neural-IMage-Assessment)/[Github](https://github.com/idealo/image-quality-assessment) | Squared EMD loss
+- `[TIP 2017]` [End-to-End Blind Image Quality Assessment Using Deep Neural Networks](https://ece.uwaterloo.ca/~z70wang/publications/TIP_E2E_BIQA.pdf), MEON, NR. | Multi-task: distortion learning and quality prediction
+- `[TIP 2017]` [dipIQ: Blind Image Quality Assessment by Learning-to-Rank Discriminable Image Pairs](https://arxiv.org/abs/1904.06505), NR. [Download](https://ece.uwaterloo.ca/~k29ma/codes/dipIQ.rar) | Similar to RankIQA
+- `[CVIU 2017]` [Learning a No-Reference Quality Metric for Single-Image Super-Resolution (NRQM)](https://arxiv.org/abs/1612.05890), NR. [Project](https://sites.google.com/site/chaoma99/sr-metric) | Traditional, Super resolution
+- `[JoV 2017]` [Perceptual Quality Prediction on Authentically Distorted Images Using a Bag of Features Approach](https://arxiv.org/abs/1609.04757), FRIQUEE, NR. [Github](https://github.com/utlive/FRIQUEE) | Authentically Distorted, Bag of Features
+- `[TIP 2016]` [Blind Image Quality Assessment Based on High Order Statistics Aggregation](https://ieeexplore.ieee.org/document/7501619), HOSA, NR. [Matlab download](https://ieeexplore.ieee.org/document/7501619) | Traditional
+- `[TIP 2015]` [A Feature-Enriched Completely Blind Image Quality Evaluator](https://live.ece.utexas.edu/publications/2015/zhang2015feature.pdf), ILNIQE, NR. [Project](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/ILNIQE/ILNIQE.htm) | Traditional
+- `[TIP 2012]` [No-reference Image Quality Assessment in the Spatial Domain](https://live.ece.utexas.edu/publications/2012/TIP%20BRISQUE.pdf), BRISQUE, NR. [Github](https://github.com/utlive/BRISQUE) | Traditional
+- `[TIP 2012]` [Blind Image Quality Assessment: A Natural Scene Statistics Approach in the DCT Domain](https://live.ece.utexas.edu/publications/2012/saad_2012_tip.pdf), BLIINDS-II, NR. [Github](https://github.com/utlive/BLIINDS2)
+- `[CVPR 2012]` [Unsupervised Feature Learning Framework for No-reference Image Quality Assessment](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.359.7510&rep=rep1&type=pdf), CORNIA, NR. [Github](https://github.com/HuiZeng/BIQA_Toolbox) | Codebook Representation
+- `[SPL 2012]` [Making a “Completely Blind” Image Quality Analyzer](https://live.ece.utexas.edu/publications/2013/mittal2013.pdf), NIQE, NR. [Github](https://github.com/utlive/niqe) | Traditional
+- `[TIP 2011]` [Blind Image Quality Assessment: From Natural Scene Statistics to Perceptual Quality](https://www.imaging.utk.edu/research/wcho/references/2011%20TIP%20BLINDS2.pdf), DIIVINE, NR. [Github](https://github.com/utlive/DIIVINE)
 
 ### Full Reference (FR)
 
-- `[Arxiv 2026]` [JLD: Perceptual Distance Through A Jacobian Lens](https://arxiv.org/abs/2610.05967), Saini et al. [Github](https://github.com/shreshthsaini/jld) | [Project](https://shreshthsaini.github.io/jld/) | [Bibtex](./iqa_ref.bib#L1413-L1421)
+- `[Arxiv 2026]` [JLD: Perceptual Distance Through A Jacobian Lens](https://arxiv.org/abs/2610.05967), Saini et al., FR. Frozen vision encoder with a Jacobian lens. [Github](https://github.com/shreshthsaini/jld) | [Project](https://shreshthsaini.github.io/jld/) | [Bibtex](./iqa_ref.bib#L1413-L1421)
 
 - `[ECCV2022]` [Shift-tolerant Perceptual Similarity Metric](https://arxiv.org/abs/2211.052152207.13686), Ghildyal et al. [Github](https://github.com/abhijay9/ShiftTolerant-LPIPS) | [Bibtex](./iqa_ref.bib#L732-L737)
 - `[BMVC2022]` [Content-Diverse Comparisons improve IQA](https://arxiv.org/abs/2211.05215), Thong et al. [Bibtex](./iqa_ref.bib#L725-L730)
 - `[ACM MM2022]` [Quality Assessment of Image Super-Resolution: Balancing Deterministic and Statistical Fidelity](https://arxiv.org/abs/2207.08689), Zhou et al. [Github](https://github.com/weizhou-geek/SRIF) | [Bibtex](./iqa_ref.bib#L710-L715)
 
-| Paper Link | Method | Type | Published | Code | Keywords | 
-| ----------- | ---------- | ------------| ---------- | ------ | ------ |
-| [arXiv](https://arxiv.org/abs/2204.10485) | AHIQ | FR | CVPR2022 NTIRE workshop | [Official](https://github.com/IIGROUP/AHIQ) | Attention, Transformer
-| [arXiv](https://arxiv.org/abs/2204.08763) | JSPL | FR | CVPR2022 | [Official](https://github.com/happycaoyue/JSPL) | semi-supervised and positive-unlabeled (PU) learning |
-| [arXiv](https://arxiv.org/abs/2202.13123) | CVRKD | NAR | AAAI2022 | [Official](https://github.com/guanghaoyin/CVRKD-IQA) | Non-Aligned content reference, knowledge distillation 
-| [arXiv](https://arxiv.org/abs/2104.14730) | IQT | FR | CVPRW2021 | [PyTorch](https://github.com/anse3832/IQT) | Transformer 
-| [arXiv](https://arxiv.org/abs/2110.08521) | A-DISTS | FR | ACMM2021 | [Official](https://github.com/dingkeyan93/A-DISTS) | 
-| [arXiv](https://arxiv.org/abs/2004.07728) | DISTS | FR | TPAMI2021 | [Official](https://github.com/dingkeyan93/DISTS) | 
-| [arXiv](https://arxiv.org/abs/1801.03924) | LPIPS | FR | CVPR2018 | [Project](https://richzhang.github.io/PerceptualSimilarity/) | Perceptual similarity, Pairwise Preference 
-| [arXiv](https://arxiv.org/abs/1806.02067) | PieAPP | FR | CVPR2018 | [Project](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/) | Perceptual similarity, Pairwise Preference 
-| [arXiv](https://arxiv.org/abs/1612.01697) | WaDIQaM | NR/FR | TIP2018 | [Official](https://github.com/lidq92/WaDIQaM) | 
-| [arXiv](https://arxiv.org/abs/1902.05316) | JND-SalCAR | FR| TCSVT2020 | []() | JND (Just-Noticeable-Difference) 
-| []() | | | | []() | 
-| [pdf](https://nottingham-repository.worktribe.com/preview/1589753/Visual%20IEEE-TIP-2019.pdf) | QADS | FR | TIP2019 | [Project](http://www.vista.ac.cn/super-resolution/) | Super-resolution 
-| [pdf](https://sse.tongji.edu.cn/linzhang/IQA/FSIM/Files/Fsim%20a%20feature%20similarity%20index%20for%20image%20quality%20assessment.pdf) | FSIM | FR | TIP2011 | [Project](https://www4.comp.polyu.edu.hk/~cslzhang/IQA/FSIM/FSIM.htm) | Traditional 
-| [pdf](https://live.ece.utexas.edu/publications/2004/hrs_ieeetip_2004_imginfo.pdf) | VIF/IFC | FR | TIP2006 | [Project](https://live.ece.utexas.edu/research/Quality/VIF.htm) | Traditional 
-| [pdf](https://ece.uwaterloo.ca/~z70wang/publications/msssim.pdf) | MS-SSIM | FR | | [Project](https://ece.uwaterloo.ca/~z70wang/research/ssim/) | Traditional 
-| [pdf](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) | SSIM | FR | TIP2004 | [Project](https://ece.uwaterloo.ca/~z70wang/research/ssim/) | Traditional 
-| []() | PSNR | FR | | []() | Traditional 
-<!-- | []() | | FR | | []() |  -->
+- `[CVPR 2022 NTIRE workshop]` [Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network](https://arxiv.org/abs/2204.10485), AHIQ, FR. [Github](https://github.com/IIGROUP/AHIQ) | Attention, Transformer
+- `[CVPR 2022]` [Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment](https://arxiv.org/abs/2204.08763), JSPL, FR. [Github](https://github.com/happycaoyue/JSPL) | semi-supervised and positive-unlabeled (PU) learning
+- `[AAAI 2022]` [Content-Variant Reference Image Quality Assessment via Knowledge Distillation](https://arxiv.org/abs/2202.13123), CVRKD, NAR. [Github](https://github.com/guanghaoyin/CVRKD-IQA) | Non-Aligned content reference, knowledge distillation
+- `[CVPRW 2021]` [Perceptual Image Quality Assessment with Transformers](https://arxiv.org/abs/2104.14730), IQT, FR. [Github](https://github.com/anse3832/IQT) | Transformer
+- `[ACMM 2021]` [Locally Adaptive Structure and Texture Similarity for Image Quality Assessment](https://arxiv.org/abs/2110.08521), A-DISTS, FR. [Github](https://github.com/dingkeyan93/A-DISTS)
+- `[TPAMI 2021]` [Image Quality Assessment: Unifying Structure and Texture Similarity](https://arxiv.org/abs/2004.07728), DISTS, FR. [Github](https://github.com/dingkeyan93/DISTS)
+- `[CVPR 2018]` [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://arxiv.org/abs/1801.03924), LPIPS, FR. [Project](https://richzhang.github.io/PerceptualSimilarity/) | Perceptual similarity, Pairwise Preference
+- `[CVPR 2018]` [PieAPP: Perceptual Image-Error Assessment through Pairwise Preference](https://arxiv.org/abs/1806.02067), FR. [Project](http://civc.ucsb.edu/graphics/Papers/CVPR2018_PieAPP/) | Perceptual similarity, Pairwise Preference
+- `[TIP 2018]` [Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment](https://arxiv.org/abs/1612.01697), WaDIQaM, NR/FR. [Github](https://github.com/lidq92/WaDIQaM)
+- `[TCSVT 2020]` [A Novel Just-Noticeable-Difference-based Saliency-Channel Attention Residual Network for Full-Reference Image Quality Predictions](https://arxiv.org/abs/1902.05316), JND-SalCAR, FR. | JND (Just-Noticeable-Difference)
+- `[TIP 2019]` [Visual Quality Assessment for Super-resolved Images: Database and Method](https://nottingham-repository.worktribe.com/preview/1589753/Visual%20IEEE-TIP-2019.pdf), QADS, FR. [Project](http://www.vista.ac.cn/super-resolution/) | Super-resolution
+- `[TIP 2011]` [FSIM: A Feature Similarity Index for Image Quality Assessment](https://sse.tongji.edu.cn/linzhang/IQA/FSIM/Files/Fsim%20a%20feature%20similarity%20index%20for%20image%20quality%20assessment.pdf), FR. [Project](https://www4.comp.polyu.edu.hk/~cslzhang/IQA/FSIM/FSIM.htm) | Traditional
+- `[TIP 2005]` [An information fidelity criterion for image quality assessment using natural scene statistics](https://doi.org/10.1109/TIP.2005.859389) (IFC), FR. | Traditional
+- `[TIP 2006]` [Image Information and Visual Quality](https://live.ece.utexas.edu/publications/2004/hrs_ieeetip_2004_imginfo.pdf) (VIF), FR. [Project](https://live.ece.utexas.edu/research/Quality/VIF.htm) | Traditional
+- [FR] [Multiscale Structural Similarity for Image Quality Assessment (MS-SSIM)](https://ece.uwaterloo.ca/~z70wang/publications/msssim.pdf) [Project](https://ece.uwaterloo.ca/~z70wang/research/ssim/) | Traditional
+- `[TIP 2004]` [Image Quality Assessment: From Error Visibility to Structural Similarity](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf), SSIM, FR. [Project](https://ece.uwaterloo.ca/~z70wang/research/ssim/) | Traditional
 
 ### Others 
 
@@ -230,9 +221,7 @@ Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex
 
 #### IQA Losses
 
-| Title | Method | Published | Code | Keywords | 
-| ----------- | ------------| ---------- | ------ | ------ |
-| [arXiv](https://arxiv.org/abs/2008.03889) | NiNLoss | ACMM2020 | [Official](https://github.com/lidq92/LinearityIQA) | Norm-in-Norm Loss
+- `[ACMM2020]` [Norm-in-Norm Loss with Faster Convergence and Better Performance for Image Quality Assessment](https://arxiv.org/abs/2008.03889) [Github](https://github.com/lidq92/LinearityIQA) | Norm-in-Norm Loss
 
 ## Datasets 
 
