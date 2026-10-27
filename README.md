@@ -60,6 +60,7 @@ Related Resources:
 ### Explainable IQA 
 > Human readable IQA, mostly with large language models
 
+- `[Arxiv 2026]` [Of Chains and Gains: What Reinforcement Learning changes on Reasoning-based Image Quality Assessment](https://arxiv.org/abs/2610.33203), Li et al. [Bibtex](./iqa_ref.bib#L1450-L1458)
 - ✨`[CVPR 2026]` [Seeing Beyond 8bits: Subjective and Objective Quality Assessment of HDR-UGC Videos](https://arxiv.org/abs/2603.00938), Saini et al. [Github](https://github.com/shreshthsaini/Beyond8Bits) | [Bibtex](./iqa_ref.bib#L1396-L1401)
 - ✨`[ICLR 2026]` [Panoptic Pairwise Distortion Graph](https://arxiv.org/pdf/2604.11004), Janjua et al. [Github](https://github.com/AISmartPerception/distortion-graphs) | [Bibtex](./iqa_ref.bib#L1310-L1315)
 - `[Arxiv 2026]` [MR-IQA: A Unified Margin View of Regression and Ranking for Blind Image Quality Assessment](https://arxiv.org/abs/2606.29760), Li et al. [Github](https://github.com/RobinY99/MR-IQA) | [Bibtex](./iqa_ref.bib#L1317-L1325)
@@ -93,9 +94,8 @@ Related Resources:
 
 ### Image Aesthetic Assessment 
 
+- `[Arxiv 2026]` [CropReward: A Human-Preference Benchmark and Reward Model for Aesthetic Image Cropping](https://arxiv.org/abs/2610.34221), Sheng et al. [Bibtex](./iqa_ref.bib#L1460-L1468)
 - `[Arxiv 2026]` [Moonworks Lunara: Modeling Artistic Intelligence](https://arxiv.org/abs/2609.22272), Wang et al. [Dataset](https://huggingface.co/datasets/moonworks/lunara-art-eval) | [Bibtex](./iqa_ref.bib#L1423-L1431)
-- `[Arxiv 2026]` [Moonworks Lunara Aesthetic II: An Image Variation Dataset](https://arxiv.org/abs/2602.01666), Wang et al. [Dataset](https://huggingface.co/datasets/moonworks/lunara-aesthetic-image-variations) | [Bibtex](./iqa_ref.bib#L1441-L1448)
-- `[Arxiv 2026]` [Moonworks Lunara Aesthetic I: An Art Dataset](https://arxiv.org/abs/2601.07941), Wang et al. [Dataset](https://huggingface.co/datasets/moonworks/lunara-aesthetic) | [Bibtex](./iqa_ref.bib#L1432-L1439)
 - `[CVPR 2026]` [Venus: Benchmarking and Empowering Multimodal Large Language Models for Aesthetic Guidance and Cropping](https://arxiv.org/abs/2602.23980), Du et al. [Github](https://github.com/PKU-ICST-MIPL/Venus_CVPR2026) | [Bibtex](./iqa_ref.bib#L1278-L1283)
 - `[CVPR 2026 (Oral)]` [Fine-grained Image Aesthetic Assessment: Learning Discriminative Scores from Relative Ranks](https://arxiv.org/abs/2603.03907), Yang et al. [Github](https://github.com/yzc-ippl/FG-IAA) | [Bibtex](./iqa_ref.bib#L1257-L1262)
 - `[AAAI 2026]` [Bridging Cognitive Gap: Hierarchical Description Learning for Artistic Image Aesthetics Assessment](https://arxiv.org/abs/2512.23413), Liu et al. [Github](https://github.com/Henglin-Liu/ArtQuant) | [Bibtex](./iqa_ref.bib#L1250-L1255)
@@ -228,6 +228,8 @@ Egocentric Spatial Images](https://arxiv.org/abs/2407.21363), Zhu et al. [Bibtex
 
 | Paper Link | Dataset Name | Type | Published | Website | Images | Annotations
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |------ |
+| [arXiv](https://arxiv.org/abs/2602.01666) / [Bibtex](./iqa_ref.bib#L1441-L1448) | Moonworks Lunara Aesthetic II | Aesthetic | arXiv2026 | [Dataset](https://huggingface.co/datasets/moonworks/lunara-aesthetic-image-variations) | 2,854 anchor–variation pairs | — |
+| [arXiv](https://arxiv.org/abs/2601.07941) / [Bibtex](./iqa_ref.bib#L1432-L1439) | Moonworks Lunara Aesthetic I | Aesthetic | arXiv2026 | [Dataset](https://huggingface.co/datasets/moonworks/lunara-aesthetic) | 2,000 | Human-refined prompts and structured annotations |
 | [arXiv](https://arxiv.org/abs/2508.14475) | FGRestore | NR | AAAI2026 | [Project](https://sxfly99.github.io/FGResQ-Home/) | 18,408(30,886 pairs)| 45,318 |
 | [arXiv](https://arxiv.org/abs/2603.00938) | Beyond8Bits | NR | CVPR2026 | [Project](https://shreshthsaini.github.io/Beyond8Bits/) | 44k videos from 6.5k sources | 1.5M+ ratings |
 | [arXiv](https://arxiv.org/abs/2605.01272) | GameScope | NR | ICIP2026 | [Project](https://rajeshsureddi.github.io/GameScope/) | 4,048 gaming videos (H.264/H.265/AV1, UGC + PGC) | ~37 MOS per video + quality attributes |
