@@ -8,6 +8,7 @@ A comprehensive collection of IQA papers, datasets and codes. We also provide Py
 > Thank you for your support! 🫶🤗🎉  
 
 - [Papers](#papers)
+  - [Task-Oriented IQA](#task-oriented-iqa)
   - [Agentic IQA](#agentic-iqa)
   - [Spatial-Aware IQA](#spatial-aware-iqa)
   - [Unified IQA](#unified-iqa)
@@ -28,6 +29,11 @@ Related Resources:
 - [Awesome Evaluation of Visual Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation). A curated list of resources for evaluation of visual generation.
 
 ## Papers
+
+### Task-Oriented IQA
+> Image quality assessment based on downstream task goals and utility
+
+- `[Arxiv 2026]` [Task-Utility IQA: Rethinking Image Quality Assessment in Embodied Tasks](https://arxiv.org/abs/2610.35905), Zha et al. [Bibtex](./iqa_ref.bib#L1470-L1478)
 
 ### Agentic IQA
 > Agentic methods that use visual evidence and specialist tools for image and video quality assessment
