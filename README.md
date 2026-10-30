@@ -116,6 +116,7 @@ Related Resources:
 - `[CVPR 2023]` [Towards Artistic Image Aesthetics Assessment: a Large-scale Dataset and a New Method](https://arxiv.org/abs/2303.14968), Yi et al. [Github](https://github.com/Dreemurr-T/BAID) | [Bibtex](./iqa_ref.bib#L778-L783)
 
 ### No Reference (NR)
+- `[Arxiv 2026]` [MetaRefine: Score Refinement with Multi-Level Features for Image Assessment](https://arxiv.org/abs/2610.40487), Xu et al. | Original-resolution geometry and multi-level feature score refinement | [Bibtex](./iqa_ref.bib#L1480-L1488)
 - `[AAAI 2026]` [Fine-grained Image Quality Assessment for Perceptual Image Restoration](https://arxiv.org/abs/2508.14475), Sheng et al. [Bibtex](./iqa_ref.bib#L1293-L1301) | [HomePage](https://sxfly99.github.io/FGResQ-Home/) | [Github](https://github.com/sxfly99/FGResQ)
 - `[Arxiv 2026]` [Decoupling Perception and Calibration: Label-Efficient Image Quality Assessment Framework](https://arxiv.org/abs/2601.20689), Li et al. [Bibtex](./iqa_ref.bib#L1213-L1218)
 - `[Arxiv 2026]` [SIQA: Toward Reliable Scientific Image Quality Assessment](https://arxiv.org/abs/2603.06700), Li et al. [Bibtex](./iqa_ref.bib#L1229-L1234)
