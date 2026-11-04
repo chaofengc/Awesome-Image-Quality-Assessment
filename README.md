@@ -34,6 +34,7 @@ Related Resources:
 > Image quality assessment based on downstream task goals and utility
 
 - `[Arxiv 2026]` [Task-Utility IQA: Rethinking Image Quality Assessment in Embodied Tasks](https://arxiv.org/abs/2610.35905), Zha et al. [Bibtex](./iqa_ref.bib#L1470-L1478)
+- `[Arxiv 2026]` [Q-CamTuning: A Multimodal Large Language Model for Fine-Grained Quality Reasoning in Livestreaming Camera Tuning](https://arxiv.org/abs/2611.03007), Bi et al. [Bibtex](./iqa_ref.bib#L1490-L1499)
 
 ### Agentic IQA
 > Agentic methods that use visual evidence and specialist tools for image and video quality assessment
