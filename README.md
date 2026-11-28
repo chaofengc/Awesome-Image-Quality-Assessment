@@ -205,7 +205,7 @@ Related Resources:
 
 #### Color IQA
 
-- `[TVCG 2026]` [Hint-AUC: Deterministic Region-based Hint Generation for Line Art Colorization Evaluation](https://doi.org/10.1109/TVCG.2026.3738401), Madono et al. [Github](https://github.com/MADONOKOUKI/DetFill-with-DHT) | [Project](https://madonokouki.github.io/projects/hintauc/) | Line art colorization evaluation
+- `[TVCG 2026]` [Hint-AUC: Deterministic Region-based Hint Generation for Line Art Colorization Evaluation](https://doi.org/10.1109/TVCG.2026.3738401), Madono et al. [Github](https://github.com/MADONOKOUKI/DetFill-with-DHT) | [Project](https://madonokouki.github.io/projects/hintauc/) | [Bibtex](./iqa_ref.bib#L1500-L1506) | Line art colorization evaluation
 - `[ECCV 2024]` [Multiscale Sliced Wasserstein Distances as Perceptual Color Difference Measures](https://arxiv.org/abs/2407.10181), He et al. [Github](https://github.com/real-hjq/MS-SWD) | [Bibtex](./iqa_ref.bib#L1082-L1089)
 - `[CVPR 2023]` [Learning a Deep Color Difference Metric for Photographic Images](https://arxiv.org/abs/2303.14964), Chen et al. [Github](https://github.com/haoychen3/CD-Flow) | [Bibtex](./iqa_ref.bib#L1091-L1096)
 
